@@ -8,10 +8,8 @@
 
 ## الروابط
 
-بعد أول تشغيل ناجح، افتح فرع **lists** (من قائمة الفروع فوق الملفات)، وبتلقى في صفحته جدول فيه رابط كل قائمة.
-
-مثال: `https://raw.githubusercontent.com/<اسم-الحساب>/<اسم-المستودع>/lists/arabic_tv.m3u`
-
+العربية: https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/arabic_tv.m3u
+كل شي: https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/all_in_one.m3u
 ## التحديث
 
 - يتحدث تلقائياً كل يوم الساعة 5:37 الصبح بتوقيت الخليج.
