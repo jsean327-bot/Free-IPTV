@@ -1,0 +1,103 @@
+name: Update free lists
+
+on:
+  schedule:
+    - cron: "37 2 * * *"   # every day at 02:37 UTC (05:37 Gulf time)
+  workflow_dispatch: {}    # "Run workflow" button for a manual update
+
+permissions:
+  contents: write          # lets the run publish the lists branch
+
+concurrency:
+  group: update-lists
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 330
+    steps:
+      - name: Get the builder
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Restore downloads from the last run
+        uses: actions/cache/restore@v4
+        with:
+          path: free_media/.cache
+          key: media-cache-${{ github.run_id }}
+          restore-keys: |
+            media-cache-
+
+      # --keep-geo: GitHub's servers are in the US, so channels that only refuse
+      # foreign viewers are kept (they play for viewers in their own region).
+      # --fail-on-error: if a source breaks, yesterday's lists stay published.
+      - name: Build the playlists
+        run: python free_media_builder.py --out free_media --keep-geo --fail-on-error
+
+      - name: Keep downloads for the next run
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: free_media/.cache
+          key: media-cache-${{ github.run_id }}
+
+      - name: Publish to the lists branch
+        env:
+          REMOTE: https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
+        run: |
+          set -euo pipefail
+          pub="$(mktemp -d)"
+          cp free_media/*.m3u free_media/summary.txt "$pub"/
+          cp -r free_media/by_country "$pub"/
+          # GitHub refuses files over 100 MB
+          find "$pub" -type f -size +95M -print -delete
+          touch "$pub/.nojekyll"
+
+          owner="${GITHUB_REPOSITORY%%/*}"
+          repo="${GITHUB_REPOSITORY#*/}"
+          raw="https://raw.githubusercontent.com/${GITHUB_REPOSITORY}/lists"
+          site="https://${owner,,}.github.io/${repo}"
+          declare -A label=(
+            [all_in_one]="كل شي (قنوات + أفلام + مسلسلات)"
+            [arabic_tv]="القنوات العربية"
+            [live_by_country]="كل القنوات حسب الدولة"
+            [live_by_category]="كل القنوات حسب التصنيف"
+            [movies]="الأفلام"
+            [series]="المسلسلات"
+            [radio]="الإذاعات"
+          )
+          {
+            echo "# القوائم المجانية"
+            echo
+            echo "آخر تحديث: $(date -u '+%Y-%m-%d %H:%M') UTC"
+            echo
+            echo "| القائمة | الرابط | الرابط القصير (يحتاج GitHub Pages) |"
+            echo "|---|---|---|"
+            for f in all_in_one arabic_tv live_by_country live_by_category movies series radio; do
+              if [ -f "$pub/$f.m3u" ]; then
+                echo "| ${label[$f]} | $raw/$f.m3u | $site/$f.m3u |"
+              fi
+            done
+            echo
+            echo "قائمة لكل دولة في مجلد by_country (مثال: $raw/by_country/SA_Saudi-Arabia.m3u)"
+            echo
+            echo '<pre>'
+            cat "$pub/summary.txt"
+            echo '</pre>'
+          } > "$pub/README.md"
+
+          cd "$pub"
+          git init -q -b lists
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -q -m "Lists for $(date -u +%Y-%m-%d)"
+          # One fresh commit each time, so the repository never grows.
+          git push -q -f "$REMOTE" lists
+          echo "Published: $raw/all_in_one.m3u"
