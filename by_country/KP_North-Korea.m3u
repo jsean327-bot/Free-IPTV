@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-name="Korean Central Television [Not 24/7]" tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="KP" tvg-language="kor" group-title="General",Korean Central Television [Not 24/7]
+https://live.koryocdn.org/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-name="Korean Central Television (KCTV)" tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="KP" tvg-language="kor" group-title="General",Korean Central Television (KCTV)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
+#EXTINF:-1 tvg-id="SportsTelevision.kp@HD" tvg-name="Sports Television (not 24/7‚ Sat/Sun 18:00-22:00 KST)" tvg-logo="https://i.imgur.com/HvFpGeH.png" tvg-country="KP" tvg-language="kor" group-title="Sports",Sports Television (not 24/7‚ Sat/Sun 18:00-22:00 KST)
+https://live.koryocdn.org/sports/index.m3u8
+#EXTINF:-1 tvg-id="RyongnamsanTelevision.kp@HD" tvg-name="Ryongnamsan Television SD [Not 24/7]" tvg-logo="https://i.imgur.com/1BHJjY4.png" tvg-country="KP" tvg-language="kor" group-title="Education",Ryongnamsan Television SD [Not 24/7]
+https://live.koryocdn.org/ryongnamsan/index.m3u8

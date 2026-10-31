@@ -1,0 +1,38 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Nova.rs@SD" tvg-name="Nova" tvg-logo="https://i.imgur.com/sU8UPPY.png" tvg-country="RS" tvg-language="srp" group-title="General",Nova
+https://best-str.umn.cdn.united.cloud/stream?channel=novashd&p=n0v43!23t001&player=m3u8&sp=novas&stream=hp7000&u=novas
+#EXTINF:-1 tvg-id="KurirTV.rs@SD" tvg-name="Kurir TV" tvg-logo="https://i.imgur.com/HBPnUD5.png" tvg-country="RS" tvg-language="srp" group-title="News",Kurir TV
+https://static.am.mediaoutcast.com/storage/nQJnjJkO/nQJnjJkO/stream/O68x4o8g/720p/720p.m3u8
+#EXTINF:-1 tvg-id="DMSat.rs@SD" tvg-name="DM Sat" tvg-logo="https://i.imgur.com/LdeA1Cn.png" tvg-country="RS" tvg-language="srp" group-title="Music",DM Sat
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://shift03.isp.bg/DMSat/index.m3u8
+#EXTINF:-1 tvg-id="RadioHitFMTV.rs@SD" tvg-name="Radio Hit FM TV" tvg-logo="https://i.imgur.com/gP2OT4S.png" tvg-country="RS" tvg-language="srp" group-title="Music",Radio Hit FM TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/bab99862-ec1c-474f-9a02-4f8c8677d565/0.m3u8
+#EXTINF:-1 tvg-id="RadioKarolinaTV.rs@SD" tvg-name="Radio Karolina TV" tvg-logo="https://i.imgur.com/g2HpLX1.png" tvg-country="RS" tvg-language="srp" group-title="Music",Radio Karolina TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/4207de1d-52e8-4591-ad9e-218069b864d1/0.m3u8
+#EXTINF:-1 tvg-id="RadioLolaTV.rs@SD" tvg-name="Radio Lola [Not 24/7]" tvg-logo="https://i.imgur.com/41eE8fl.png" tvg-country="RS" tvg-language="srp" group-title="Music",Radio Lola [Not 24/7]
+https://peer2.tdiradio.com/static/streaming-playlists/hls/7c3ea8d3-49dc-4e1b-8b1e-dc6fab71f5cf/0.m3u8
+#EXTINF:-1 tvg-id="TDIRadioTV.rs@SD" tvg-name="TDI Radio TV" tvg-logo="https://i.imgur.com/POdTmaD.png" tvg-country="RS" tvg-language="srp" group-title="Music",TDI Radio TV
+https://peer2.tdiradio.com/static/streaming-playlists/hls/8f5d84ce-e8ac-4109-9975-9665f5605557/master.m3u8
+#EXTINF:-1 tvg-id="ZICOTV.rs@SD" tvg-name="ZICO TV" tvg-logo="https://i.imgur.com/8wbTnNW.png" tvg-country="RS" tvg-language="sqi" group-title="Music",ZICO TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+#EXTINF:-1 tvg-id="KitchenTV.rs@SD" tvg-name="Kitchen TV" tvg-logo="https://i.imgur.com/WcGKc4C.png" tvg-country="RS" tvg-language="srp" group-title="Cooking",Kitchen TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a03n
+#EXTINF:-1 tvg-id="IDJTV.rs@SD" tvg-name="IDJTV" tvg-logo="https://i.imgur.com/btvyrzr.png" tvg-country="RS" tvg-language="srp" group-title="Other",IDJTV
+https://best-str.umn.cdn.united.cloud/stream?channel=idjhd&p=In$trum300na765ta&player=m3u8&sp=idjtv&stream=hp1400&u=idjtv
+#EXTINF:-1 tvg-id="RTS2.rs@SD" tvg-name="RTS 2" tvg-logo="https://i.imgur.com/jltAf5h.png" tvg-country="RS" tvg-language="srp" group-title="Other",RTS 2
+https://webtvstream.bhtelecom.ba/rts2.m3u8
+#EXTINF:-1 tvg-id="RTSSvet.rs@SD" tvg-name="RTS Svet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png" tvg-country="RS" tvg-language="srp" group-title="Other",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+#EXTINF:-1 tvg-id="RTVNoviPazar.rs@SD" tvg-name="RTV Novi Pazar" tvg-logo="https://i.imgur.com/NpyRVyC.png" tvg-country="RS" tvg-language="srp" group-title="Other",RTV Novi Pazar
+https://tv.rtvnp.rs/stream.m3u8
+#EXTINF:-1 tvg-id="SandzakTV.rs@SD" tvg-name="Sandzak TV" tvg-logo="https://i.imgur.com/lm9Fgsp.png" tvg-country="RS" tvg-language="srp" group-title="Other",Sandzak TV
+https://streaming.iptv.nextfiber.rs/nxt004/master.m3u8
+#EXTINF:-1 tvg-id="SciFi.rs@SD" tvg-name="Sci Fi" tvg-logo="https://i.imgur.com/FPumwfg.png" tvg-country="RS" tvg-language="srp;eng" group-title="Other",Sci Fi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://webtvstream.bhtelecom.ba/sci-fi.m3u8
+#EXTINF:-1 tvg-id="TVHram.rs@SD" tvg-name="TV Hram [Not 24/7]" tvg-logo="https://i.imgur.com/XzAYOFK.png" tvg-country="RS" tvg-language="srp" group-title="Other",TV Hram [Not 24/7]
+https://vod1.laki.eu/live/hram/index.m3u8
+#EXTINF:-1 tvg-id="TVPiKanal.rs@SD" tvg-name="TV Pi Kanal [Not 24/7]" tvg-logo="https://i.imgur.com/8ugnFa3.png" tvg-country="RS" tvg-language="srp" group-title="Other",TV Pi Kanal [Not 24/7]
+https://stream.pikanal.rs/pikanal/pgm.m3u8

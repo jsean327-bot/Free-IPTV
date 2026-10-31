@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel5.sg@SD" tvg-name="Channel 5" tvg-logo="https://i.ibb.co/fYdZm7sS/IMG-2459.png" tvg-country="SG" tvg-language="eng" group-title="General",Channel 5
+https://cdn.qd.je/163189/ch5
+#EXTINF:-1 tvg-id="Channel8.sg@SD" tvg-name="Channel 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Mediacorp_Channel_8_2023.svg/960px-Mediacorp_Channel_8_2023.svg.png" tvg-country="SG" tvg-language="zho" group-title="General",Channel 8
+https://cdn.qd.je/163189/ch8
+#EXTINF:-1 tvg-id="CNA.sg@SD" tvg-name="CNA [Geo-blocked]" tvg-logo="https://i.imgur.com/awIDugE.png" tvg-country="SG" tvg-language="eng" group-title="News",CNA [Geo-blocked]
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg@SD" tvg-name="CNA International" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-country="SG" tvg-language="eng" group-title="News",CNA International
+https://freem3u.xyz/api/live/play.m3u8?vid=112
+#EXTINF:-1 tvg-id="ZooMoo.sg@SD" tvg-name="Zoo Moo (Australia)" tvg-logo="https://i.imgur.com/ciTJrnl.png" tvg-country="SG" tvg-language="eng" group-title="Kids",Zoo Moo (Australia)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Indonesia" tvg-name="AXN Asia Indonesia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/AXN_Logo_2015.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-country="SG" tvg-language="ind" group-title="Movies",AXN Asia Indonesia
+http://202.150.165.66:8088/play/301-AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNAsia.sg@Taiwan" tvg-name="AXN Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-country="SG" tvg-language="cmn" group-title="Movies",AXN Asia Taiwan
+http://125.227.210.55:4050/VideoInput/play.ts
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-name="Cinemax Asia [Geo-blocked]" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-country="SG" tvg-language="eng" group-title="Movies",Cinemax Asia [Geo-blocked]
+https://tinyurl.com/44efw2rx
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-name="Cinemax Asia HD" tvg-logo="https://freem3u.xyz/static/images/global/cinemax.png" tvg-country="SG" tvg-language="eng" group-title="Movies",Cinemax Asia HD
+http://125.227.210.55:1001/VideoInput/play.ts
+#EXTINF:-1 tvg-id="HBOAsia.sg@SD" tvg-name="HBO Asia SD [Geo-blocked]" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-country="SG" tvg-language="eng" group-title="Movies",HBO Asia SD [Geo-blocked]
+https://tinyurl.com/yn3d3rmd
+#EXTINF:-1 tvg-id="HBOAsia.sg@Taiwan" tvg-name="HBO Asia Taiwan" tvg-logo="https://freem3u.xyz/static/images/global/hbo.png" tvg-country="SG" tvg-language="eng;cmn" group-title="Movies",HBO Asia Taiwan
+http://125.227.210.55:1003/VideoInput/play.ts
+#EXTINF:-1 tvg-id="KCM.sg@India" tvg-name="KCM [Geo-blocked]" tvg-logo="https://img1.wsimg.com/isteam/ip/31e9f2fb-aa91-4437-b7ce-f34ad0f7e457/blob-c09ea31.png" tvg-country="SG" tvg-language="eng" group-title="Movies",KCM [Geo-blocked]
+https://amg02159-amg02159c7-samsung-in-4001.playouts.now.amagi.tv/playlist/amg02159-kcglobal-kcm-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="ChannelU.sg@SD" tvg-name="Channel U" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Mediacorp_Channel_U_2023.svg/960px-Mediacorp_Channel_U_2023.svg.png" tvg-country="SG" tvg-language="zho;kor;tha;eng" group-title="Entertainment",Channel U
+https://cdn.qd.je/163189/chu
+#EXTINF:-1 tvg-id="meWATCHLIVE1.sg@SD" tvg-name="meWATCH LIVE 1" tvg-logo="https://i.imgur.com/ppxUDxB.png" tvg-country="SG" tvg-language="eng;mal;zho" group-title="Entertainment",meWATCH LIVE 1
+https://tglmp04.akamaized.net/out/v1/898b1cbac7c747e3b1f3deb460e9b67e/manifest.mpd
+#EXTINF:-1 tvg-id="CNAOriginals.sg@SD" tvg-name="CNA Originals" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" tvg-country="SG" tvg-language="eng" group-title="Documentary",CNA Originals
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@India" tvg-name="Animax Asia India [Geo-blocked]" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Animax.png" tvg-country="SG" tvg-language="jpn;eng" group-title="Animation",Animax Asia India [Geo-blocked]
+https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8
+#EXTINF:-1 tvg-id="AnimaxAsia.sg@Taiwan" tvg-name="Animax Asia Taiwan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Animax.png/960px-Animax.png" tvg-country="SG" tvg-language="eng;jpn;tha" group-title="Animation",Animax Asia Taiwan
+http://125.227.210.55:3056/VideoInput/play.ts
+#EXTINF:-1 tvg-id="AniplusAsia.sg@SD" tvg-name="Aniplus Asia [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Aniplus_logo.svg/960px-Aniplus_logo.svg.png" tvg-country="SG" tvg-language="eng" group-title="Animation",Aniplus Asia [Geo-blocked]
+https://amg18481-amg18481c1-amgplt0352.playout.now3.amagi.tv/playlist/amg18481-amg18481c1-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="CartoonNetworkAsia.sg@SD" tvg-name="Cartoon Network Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" tvg-country="SG" tvg-language="eng" group-title="Animation",Cartoon Network Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 tvg-id="CartoonitoAsia.sg@SD" tvg-name="Cartoonito Asia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cartoonito_-_Logo_2021.svg/960px-Cartoonito_-_Logo_2021.svg.png" tvg-country="SG" tvg-language="eng" group-title="Animation",Cartoonito Asia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36
+http://cdn4.skygo.mn/live/disk1/Boomerang/HLSv3-FTA/Boomerang.m3u8
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg@Vietnam" tvg-name="Asian Food Network Vietnam" tvg-logo="https://i.imgur.com/pux6WN8.png" tvg-country="SG" tvg-language="eng;vie" group-title="Cooking",Asian Food Network Vietnam
+https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTINF:-1 tvg-id="CNBCAsia.sg@HD" tvg-name="CNBC Asia HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-country="SG" tvg-language="eng" group-title="Business",CNBC Asia HD
+https://freem3u.xyz/api/live/play.m3u8?vid=9855

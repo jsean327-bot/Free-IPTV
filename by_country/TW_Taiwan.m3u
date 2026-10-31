@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DaliTV.tw@SD" tvg-name="Dali TV (大立電視台)" tvg-logo="https://i.imgur.com/pFIMLsA.png" tvg-country="TW" tvg-language="nan" group-title="General",Dali TV (大立電視台)
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 tvg-id="TaiwanIndigenousTV.tw@SD" tvg-name="Taiwan Indigenous TV" tvg-logo="https://i.imgur.com/QqIdVqz.png" tvg-country="TW" tvg-language="zho" group-title="General",Taiwan Indigenous TV
+https://streamipcfapp.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 tvg-id="TTVNews.tw@SD" tvg-name="TTV News" tvg-logo="https://i.imgur.com/AfkK0gv.png" tvg-country="TW" tvg-language="zho" group-title="News",TTV News
+https://live.wcetv.com/hls/master-ttvnews.m3u8
+#EXTINF:-1 tvg-id="EBCForeignMovie.tw@SD" tvg-name="EBC Foreign Movie" tvg-logo="https://i.imgur.com/oUhYdea.png" tvg-country="TW" tvg-language="zho" group-title="Movies",EBC Foreign Movie
+http://111.59.139.85:11888/tsfile/live/1217_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="DiscoveryAsiaTaiwan.tw@SD" tvg-name="Discovery Asia Taiwan" tvg-logo="https://i.imgur.com/foLICwL.png" tvg-country="TW" tvg-language="eng;cmn" group-title="Entertainment",Discovery Asia Taiwan
+http://125.227.210.55:1004/VideoInput/play.ts
+#EXTINF:-1 tvg-id="TVBSAsia.tw@SD" tvg-name="TVBS Asia" tvg-logo="https://i.imgur.com/4S1rkhm.png" tvg-country="TW" tvg-language="zho" group-title="Entertainment",TVBS Asia
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1 tvg-id="BeautifulLifeTV.tw@SD" tvg-name="Beautiful Life TV" tvg-logo="https://i.imgur.com/hkwcBM9.png" tvg-country="TW" tvg-language="zho" group-title="Religious",Beautiful Life TV
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1 tvg-id="CGNTVChinese.tw@SD" tvg-name="CGNTV Chinese" tvg-logo="https://i.imgur.com/bPoPAbR.png" tvg-country="TW" tvg-language="zho" group-title="Religious",CGNTV Chinese
+https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
+#EXTINF:-1 tvg-id="GoodTV.tw@SD" tvg-name="GOOD TV CH1 綜合台 [Not 24/7]" tvg-logo="https://i.imgur.com/k28Kc3o.png" tvg-country="TW" tvg-language="zho" group-title="Religious",GOOD TV CH1 綜合台 [Not 24/7]
+https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="Good2.tw@SD" tvg-name="GOOD TV CH2 真理台" tvg-logo="https://i.imgur.com/YxFRoft.png" tvg-country="TW" tvg-language="zho" group-title="Religious",GOOD TV CH2 真理台
+https://live.streamingfast.net/osmflivech2.m3u8
+#EXTINF:-1 tvg-id="WXTV.tw@SD" tvg-name="唯心電視" tvg-logo="https://i.imgur.com/s8tiTeb.png" tvg-country="TW" tvg-language="zho" group-title="Religious",唯心電視
+https://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-id="HakkaTV.tw@SD" tvg-name="Hakka TV" tvg-logo="https://i.imgur.com/1CdGSbU.png" tvg-country="TW" tvg-language="zho" group-title="Culture",Hakka TV
+https://h5cul1yar48um3t.wcetv.com/hls/hakkatv.m3u8
+#EXTINF:-1 tvg-id="PTS3.tw@SD" tvg-name="PTS 3" tvg-logo="https://i.imgur.com/I6sVDDt.png" tvg-country="TW" tvg-language="zho" group-title="Other",PTS 3
+http://111.59.139.85:11888/tsfile/live/1222_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SJTV.tw@SD" tvg-name="SJTV" tvg-logo="https://i.imgur.com/PTsFn9B.png" tvg-country="TW" tvg-language="zho" group-title="Other",SJTV
+http://111.59.139.85:11888/tsfile/live/1220_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="SupremeMasterTV.tw@SD" tvg-name="Supreme Master TV" tvg-logo="https://i.imgur.com/kFMHayP.png" tvg-country="TW" tvg-language="eng" group-title="Other",Supreme Master TV
+https://lbs-us1.suprememastertv.com/720p.m3u8

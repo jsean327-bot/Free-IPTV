@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTVHB.ba@SD" tvg-name="RTV HB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" tvg-country="BA" tvg-language="hrv" group-title="General",RTV HB
+https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
+#EXTINF:-1 tvg-id="NewsmaxBalkans.ba@SD" tvg-name="Newsmax Balkans" tvg-logo="https://iab.rs/wp-content/uploads/2026/01/newsmax_logo.png" tvg-country="BA" tvg-language="bos" group-title="News",Newsmax Balkans
+https://newsmaxadria.mts-si.tv/newsmaxadria/index.m3u8
+#EXTINF:-1 tvg-id="N1BosniaHerzegovina.ba" tvg-name="N1 Bosna i Hercegovina" tvg-logo="https://i.imgur.com/72oMSWz.png" tvg-country="BA" group-title="Other",N1 Bosna i Hercegovina
+https://best-str.umn.cdn.united.cloud/stream?channel=n1bos&p=n1Sh4redSecre7iNf0&sp=n1info&stream=sp1400&u=n1info
+#EXTINF:-1 tvg-id="RTRSplus.ba@SD" tvg-name="RTRS PLUS" tvg-logo="https://i.imgur.com/k06WvYl.png" tvg-country="BA" tvg-language="srp" group-title="Other",RTRS PLUS
+https://pluslive.rtrs.tv/plus/plus/playlist.m3u8
+#EXTINF:-1 tvg-id="BNTV.ba@SD" tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-country="BA" tvg-language="srp" group-title="Other",RTV BN
+https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+#EXTINF:-1 tvg-id="RTVZenica.ba@SD" tvg-name="RTV ZE" tvg-logo="https://i.imgur.com/TKUaflB.png" tvg-country="BA" tvg-language="bos" group-title="Other",RTV ZE
+https://stream.rtvze.ba/live/123/123.m3u8
+#EXTINF:-1 tvg-id="Televizija5.ba@SD" tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-country="BA" tvg-language="bos" group-title="Other",Televizija 5
+https://balkanmedia.dynu.net/hls/tv5web.m3u8
+#EXTINF:-1 tvg-id="RTRSTV.ba@SD" tvg-name="Televizija Republike Srpske (RTRS)" tvg-logo="https://i.imgur.com/2Sgs5gM.png" tvg-country="BA" tvg-language="srp" group-title="Other",Televizija Republike Srpske (RTRS)
+https://parh.rtrs.tv/tv/live/playlist.m3u8

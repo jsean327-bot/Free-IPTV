@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Channel13.mv@SD" tvg-name="Channel 13" tvg-logo="https://i.imgur.com/lR5jUSU.jpeg" tvg-country="MV" tvg-language="div" group-title="General",Channel 13
+https://sunplay-cdn.bitratelabs.com/live/local-channel-fhd/ch13-28754fda0a7f338e8fccfe7206ab9be8_1080p/index.m3u8
+#EXTINF:-1 tvg-id="MMTV.mv@SD" tvg-name="MMTV" tvg-logo="https://i.imgur.com/21tpl5b.png" tvg-country="MV" tvg-language="eng;div" group-title="General",MMTV
+https://sendlive.online/hls/mmtv.m3u8
+#EXTINF:-1 tvg-id="NTV.mv@SD" tvg-name="NTV" tvg-logo="https://i.imgur.com/jnXpcwV.png" tvg-country="MV" tvg-language="div" group-title="General",NTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/ntv-e3d4300b49c8c901e9339174215d7580/index.m3u8
+#EXTINF:-1 tvg-id="VTV.mv@SD" tvg-name="VTV" tvg-logo="https://i.imgur.com/6bY9Umo.png" tvg-country="MV" tvg-language="div" group-title="News",VTV
+https://sunplay-cdn.bitratelabs.com/live/local-channel/vtv-7a0f24809c234ea78d972b1f336ac1b9/index.m3u8

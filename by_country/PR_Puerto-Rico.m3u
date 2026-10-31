@@ -1,0 +1,46 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CAtv.pr@SD" tvg-name="Caribbean Advantage TV [Not 24/7]" tvg-logo="https://caribbeanadvantage.com/images/CAtv-logo-512.png" tvg-country="PR" tvg-language="spa;eng" group-title="General",Caribbean Advantage TV [Not 24/7]
+https://video2.getstreamhosting.com:19360/8216/8216.m3u8
+#EXTINF:-1 tvg-id="Telenorte.pr@SD" tvg-name="Telenorte" tvg-logo="https://i.imgur.com/LCiYFrh.jpg" tvg-country="PR" tvg-language="spa" group-title="General",Telenorte
+https://627bb251f23c7.streamlock.net:444/TopRadioTV/TopRadioTV/playlist.m3u8
+#EXTINF:-1 tvg-id="WAPATV41.pr@HD" tvg-name="WAPA-TV 4.1 [Not 24/7]" tvg-logo="https://i.imgur.com/kqq7tD9.png" tvg-country="PR" tvg-language="spa" group-title="General",WAPA-TV 4.1 [Not 24/7]
+https://wapa.hostless.app/WAPA-TV-4-1.m3u8
+#EXTINF:-1 tvg-id="BuenaTV.pr@SD" tvg-name="Buena TV" tvg-logo="https://i.imgur.com/tsajuxi.png" tvg-country="PR" tvg-language="spa" group-title="Entertainment",Buena TV
+https://59825a54e4454.streamlock.net:8443/papo351/papo351/playlist.m3u8
+#EXTINF:-1 tvg-id="CandelitaTV.pr@SD" tvg-name="Candelita TV" tvg-logo="https://i.imgur.com/34BvVDl.png" tvg-country="PR" tvg-language="spa" group-title="Religious",Candelita TV
+https://6110f70ea8d0e.streamlock.net/1689/1689/playlist.m3u8
+#EXTINF:-1 tvg-id="CDMInternacional.pr@SD" tvg-name="CDM Internacional [Not 24/7]" tvg-logo="https://i.imgur.com/N7IneVk.png" tvg-country="PR" tvg-language="spa;eng" group-title="Religious",CDM Internacional [Not 24/7]
+https://627bb251f23c7.streamlock.net:444/CDMInternacional/CDMInternacional/playlist.m3u8
+#EXTINF:-1 tvg-id="WELU81.pr@HD" tvg-name="CTNi (Christian Television Network International) [Not 24/7]" tvg-logo="https://i.imgur.com/42UdwD0.png" tvg-country="PR" tvg-language="spa" group-title="Religious",CTNi (Christian Television Network International) [Not 24/7]
+https://video1.getstreamhosting.com:1936/8226/8226/playlist.m3u8
+#EXTINF:-1 tvg-id="FamiliaVisionHD.pr@SD" tvg-name="Familia Visión HD [Not 24/7]" tvg-logo="https://i.imgur.com/uqTH7m5.jpg" tvg-country="PR" tvg-language="spa" group-title="Religious",Familia Visión HD [Not 24/7]
+https://584097344c1f0.streamlock.net/29/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="FarodeSantidadTV.pr@SD" tvg-name="Faro de Santidad TV" tvg-logo="https://i.imgur.com/GoNBFzI.png" tvg-country="PR" tvg-language="spa" group-title="Religious",Faro de Santidad TV
+https://5dbcd1053301e.streamlock.net:4443/farodesantidad/farodesantidad/playlist.m3u8
+#EXTINF:-1 tvg-id="NuevaVidaFM.pr@SD" tvg-name="Nueva Vida TV" tvg-logo="https://i.ibb.co/3mbZWyN/nav-Bar-title-Image-iphone6plus.png" tvg-country="PR" tvg-language="spa" group-title="Religious",Nueva Vida TV
+https://stream.nuevavidafm.net:3937/live/nuevavidalive.m3u8
+#EXTINF:-1 tvg-id="ParaisoTV.pr@SD" tvg-name="Paraíso TV" tvg-logo="https://i.imgur.com/wE31GIP.jpg" tvg-country="PR" tvg-language="spa" group-title="Religious",Paraíso TV
+https://stream.eleden.com/livewtpm/ngrp:livewtpm_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SalvacionTV.pr@SD" tvg-name="Salvación TV" tvg-logo="https://i.imgur.com/6HOViG9.png" tvg-country="PR" tvg-language="spa" group-title="Religious",Salvación TV
+https://stream.eleden.com/livesalvatv/ngrp:livesalvatv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Triunfo969FM.pr@SD" tvg-name="Triunfo 96.9 FM TV" tvg-logo="https://i.ibb.co/q0qt0h5/x-SCWAc-Jfp3.png" tvg-country="PR" tvg-language="spa" group-title="Religious",Triunfo 96.9 FM TV
+https://59825a54e4454.streamlock.net:8443/william652/william652/playlist.m3u8
+#EXTINF:-1 tvg-id="WECN.pr@SD" tvg-name="WECN (Único TV)" tvg-logo="https://i.imgur.com/NYBZBY0.png" tvg-country="PR" tvg-language="spa" group-title="Religious",WECN (Único TV)
+https://59825a54e4454.streamlock.net:8443/pastorairisn394/pastorairisn394/chunklist_w239411719.m3u8
+#EXTINF:-1 tvg-id="LaX.pr@SD" tvg-name="La-X" tvg-logo="https://i.imgur.com/i2GnQTq.png" tvg-country="PR" tvg-language="spa" group-title="Music",La-X
+https://stream.eleden.com/livelax/ngrp:livelax_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TheRetroChannel.pr@SD" tvg-name="The Retro Channel [Not 24/7]" tvg-logo="https://i.imgur.com/t3i1HtE.jpg" tvg-country="PR" group-title="Music",The Retro Channel [Not 24/7]
+https://583ed2f226ac2.streamlock.net/theretrochannel/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DeFianceMedia.pr@SD" tvg-name="DeFiance Media" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5e6HtuC9SEacvU98D5CWN9eBhERsc_WU73KZAyKHaePqMkJloAQ1lGfSGHqg-W_j5Z2g&usqp=CAU" tvg-country="PR" tvg-language="eng" group-title="Business",DeFiance Media
+https://amg01529-defiancetv-defiancemedia-glewed-tre8x.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="PuraPalabra.pr@SD" tvg-name="Pura Palabra [Not 24/7]" tvg-logo="https://i.imgur.com/nl5vyIw.png" tvg-country="PR" tvg-language="spa" group-title="Other",Pura Palabra [Not 24/7]
+https://59825a54e4454.streamlock.net:8443/william233/william233/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleOnce.pr@HD" tvg-name="TeleOnce" tvg-logo="https://i.imgur.com/Crt3P4N.png" tvg-country="PR" tvg-language="spa" group-title="Other",TeleOnce
+https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="WIPRTV61.pr@HD" tvg-name="WIPR-TV 6.1" tvg-logo="https://i.imgur.com/MGJaxFO.png" tvg-country="PR" tvg-language="spa" group-title="Other",WIPR-TV 6.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+https://ott3.streann.com/loadbalancer/services/public/channels-secure/6273ffeae4b037870081ff51/playlist.m3u8
+#EXTINF:-1 tvg-id="WKAQTV22.pr@HD" tvg-name="WKAQ-TV 2.2" tvg-logo="https://i.imgur.com/TL6xy4y.png" tvg-country="PR" tvg-language="spa" group-title="Other",WKAQ-TV 2.2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream2/master_720.m3u8
+#EXTINF:-1 tvg-id="WXWZLD231.pr@HD" tvg-name="WXWZ-LD1 (MásTV Canal 23)" tvg-logo="https://i.imgur.com/rjmGc9p.png" tvg-country="PR" tvg-language="spa" group-title="Other",WXWZ-LD1 (MásTV Canal 23)
+https://5bf8041cb3fed.streamlock.net/mastvpr/mastvpr/playlist.m3u8

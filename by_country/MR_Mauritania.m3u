@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Sahara-24.mr" tvg-name="Sahara 24 صحراء" tvg-logo="https://i.imgur.com/nOkf1fU.png" tvg-country="MR" group-title="Other",Sahara 24 صحراء
+https://live.saharamedias.net:3317/live/shara24live.m3u8

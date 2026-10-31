@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CoolTV.mk@SD" tvg-name="Cool TV" tvg-logo="https://i.imgur.com/2tFrjUz.png" tvg-country="MK" tvg-language="mkd" group-title="General",Cool TV
+https://stream.nasatv.com.mk/cooltv/hls/cooltv_live.m3u8
+#EXTINF:-1 tvg-id="Kanal5.mk@SD" tvg-name="Kanal 5 [Geo-blocked]" tvg-logo="https://i.imgur.com/Qw7N3S2.png" tvg-country="MK" tvg-language="mkd" group-title="General",Kanal 5 [Geo-blocked]
+https://teve.mk/tvstanici/2/playlist.m3u8
+#EXTINF:-1 tvg-id="MRT1.mk@SD" tvg-name="MRT1 [Geo-blocked]" tvg-logo="https://i.imgur.com/EkkyAE0.png" tvg-country="MK" tvg-language="mkd" group-title="General",MRT1 [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/42/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MDc6MTcgUE0maGFzaF92YWx1ZT1JNmgrQytUN2xXb1J3aDdRSDBjcW9RPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY2ZDk1MDMxMjM=
+#EXTINF:-1 tvg-id="TV21.mk@SD" tvg-name="TV 21 [Geo-blocked]" tvg-logo="https://i.imgur.com/IC1f4h3.png" tvg-country="MK" tvg-language="sqi;mkd" group-title="General",TV 21 [Geo-blocked]
+https://t2.tvmak.com/tv/TV21MK.m3u8?QScgsh2FfM
+#EXTINF:-1 tvg-id="NasaTV.mk@SD" tvg-name="Наша ТВ" tvg-logo="https://i.imgur.com/EOLrXvB.png" tvg-country="MK" tvg-language="mkd" group-title="General",Наша ТВ
+https://stream.nasatv.com.mk/hls/nasatv_live.m3u8
+#EXTINF:-1 tvg-id="MRT3.mk@SD" tvg-name="MRT3 [Geo-blocked]" tvg-logo="https://i.imgur.com/3VZrG4T.png" tvg-country="MK" tvg-language="mkd;sqi" group-title="Sports",MRT3 [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/658323455489957/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzU6NTkgUE0maGFzaF92YWx1ZT1Xb0JsUWRMN1JKLytjbnMyQjVuMUFRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NDRmM2M5MDI=
+#EXTINF:-1 tvg-id="FolkTV.mk@SD" tvg-name="Folk TV" tvg-logo="https://i.imgur.com/4b9aZ9P.png" tvg-country="MK" tvg-language="mkd" group-title="Music",Folk TV
+https://stream.nasatv.com.mk/folktv/hls/folktv_live.m3u8
+#EXTINF:-1 tvg-id="LoveTV.mk@SD" tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-country="MK" tvg-language="mkd" group-title="Music",Love TV
+https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
+#EXTINF:-1 tvg-id="SkyFolkTV.mk@SD" tvg-name="Sky Folk" tvg-logo="https://i.imgur.com/xRw4Hmu.png" tvg-country="MK" tvg-language="mkd" group-title="Music",Sky Folk
+https://skyfolk.mk/live.m3u8
+#EXTINF:-1 tvg-id="TopEstradaTV.mk@SD" tvg-name="TopEstrada TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu5Regf9pPTMfNnFdU23otlXsvGzUmjsuHxfYaTdrWwA&s" tvg-country="MK" tvg-language="sqi" group-title="Music",TopEstrada TV
+http://live.topestrada.com/live/topestrada/playlist.m3u8
+#EXTINF:-1 tvg-id="MRT2.mk@SD" tvg-name="MRT2 [Geo-blocked]" tvg-logo="https://i.imgur.com/YvOrUnN.png" tvg-country="MK" tvg-language="sqi" group-title="Culture",MRT2 [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/43/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MjM6NTQgUE0maGFzaF92YWx1ZT1ZT2dHa29qd09TbDcvVFpqQU1udVh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MTdhN2ZmY2Q=
+#EXTINF:-1 tvg-id="MRTSobraniskikanal.mk@SD" tvg-name="MRT Sobraniski kanal [Geo-blocked]" tvg-logo="https://i.imgur.com/fyNQ8Nf.png" tvg-country="MK" tvg-language="mkd;sqi" group-title="Legislative",MRT Sobraniski kanal [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/44/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6MzA6MTQgUE0maGFzaF92YWx1ZT0yS29FektrRDdpNXpza1hhV01kcENRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3MmY2MzcwMzg=
+#EXTINF:-1 tvg-id="FolkClubTV.mk" tvg-name="Folk Club TV" tvg-logo="https://i.imgur.com/vkGFSl8.png" tvg-country="MK" group-title="Other",Folk Club TV
+http://tv1.intv.mk:1935/live2/folkklub/index.m3u8
+#EXTINF:-1 tvg-name="INTV" tvg-logo="https://i.imgur.com/K7BSjqY.png" tvg-country="MK" group-title="Other",INTV
+http://tv1.intv.mk:1935/live/intv/index.m3u8
+#EXTINF:-1 tvg-id="MRT4.mk@SD" tvg-name="MRT4 [Geo-blocked]" tvg-logo="https://i.imgur.com/wSmxUqY.png" tvg-country="MK" tvg-language="mkd" group-title="Other",MRT4 [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/712108910819540/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDI6NDA6MzEgUE0maGFzaF92YWx1ZT13WmtQTWM2U0ZUUTF0VGc5TzlIRVZRPT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY3NTVmYzlkZDc=
+#EXTINF:-1 tvg-id="MRT5.mk@SD" tvg-name="MRT5 [Geo-blocked]" tvg-logo="https://i.imgur.com/zcvKu1h.png" tvg-country="MK" tvg-language="mkd" group-title="Other",MRT5 [Geo-blocked]
+https://vod-c57.interspace.com:443/channel_abr/553171400681132/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNy8yMDI2IDM6NDI6NDMgUE0maGFzaF92YWx1ZT0wZXRxNHh1UnMyVStVZnU3K0RNZUh3PT0mdmFsaWRtaW51dGVzPTMwJmlkPTY5ZWY4M2YzYzIyYmI=
+#EXTINF:-1 tvg-id="Sitel.mk@SD" tvg-name="Sitel [Geo-blocked]" tvg-logo="https://i.imgur.com/pdobwKt.png" tvg-country="MK" tvg-language="mkd" group-title="Other",Sitel [Geo-blocked]
+https://teve.mk/tvstanici/s1/playlist.m3u8
+#EXTINF:-1 tvg-name="Вистел" tvg-logo="https://i.imgur.com/MbM0E6L.png" tvg-country="MK" group-title="Other",Вистел
+https://live.vtv.mk/live/vtv/chunks.m3u8
+#EXTINF:-1 tvg-id="TV Orbis" tvg-name="Орбис" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Orbis-logo.png" tvg-country="MK" group-title="Other",Орбис
+http://tvorbis.hugo.mk:1935/live/orbis/index.m3u8
+#EXTINF:-1 tvg-id="tvnova12.mk" tvg-name="ТВ НОВА 12" tvg-logo="https://i.imgur.com/Qo3Hj3t.png" tvg-country="MK" group-title="Other",ТВ НОВА 12
+http://151.236.247.171:8080/nova/index.m3u8
+#EXTINF:-1 tvg-id="Zdravkin" tvg-name="Телевизија Здравкин" tvg-logo="https://i.imgur.com/kSmcAER.png" tvg-country="MK" group-title="Other",Телевизија Здравкин
+http://zdravkin.hugo.mk:1935/live/zdravkin/playlist.m3u8
+#EXTINF:-1 tvg-id="Hugo2.mk" tvg-name="Хуго 2" tvg-logo="https://i.imgur.com/yb3xjOZ.png" tvg-country="MK" group-title="Other",Хуго 2
+http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8

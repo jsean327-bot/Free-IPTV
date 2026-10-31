@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GTV.gh@SD" tvg-name="GTV" tvg-logo="https://i.imgur.com/5cFLWKO.png" tvg-country="GH" tvg-language="fra;eng" group-title="General",GTV
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/gtvghana/ghanaweb.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="OTV.gh@SD" tvg-name="OTV" tvg-logo="https://pbs.twimg.com/profile_images/1034118312437919744/emeWo-ag_400x400.jpg" tvg-country="GH" tvg-language="eng" group-title="Entertainment",OTV
+https://5dcabf026b188.streamlock.net/OceansTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="PentTV.gh@SD" tvg-name="Pent TV" tvg-logo="https://i.imgur.com/Jw6d3dR.png" tvg-country="GH" tvg-language="eng" group-title="Religious",Pent TV
+https://playlist.dacast.com/live/a72117af-d78e-7ffe-7c12-1af6cd4a8483-live-42172a86-494b-a866-498f-dbaff4b5e3c0/master.m3u8
+#EXTINF:-1 tvg-id="ResurrectionTV.gh@SD" tvg-name="Resurrection TV" tvg-logo="https://i.imgur.com/IncyJW8.png" tvg-country="GH" tvg-language="eng" group-title="Other",Resurrection TV
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 tvg-id="SABCNews.gh" tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-country="GH" group-title="Other",SABC News
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
+#EXTINF:-1 tvg-id="TV3.gh@SD" tvg-name="TV3" tvg-logo="https://i.imgur.com/8t967Hq.png" tvg-country="GH" tvg-language="eng" group-title="Other",TV3
+#EXTVLCOPT:http-referrer=https://liveghanatv.com/
+https://g2qd3exjy7an-hls-live.5centscdn.com/webtv3/ghanatv.stream/playlist.m3u8

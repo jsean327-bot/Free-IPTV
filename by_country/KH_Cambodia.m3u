@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVK.kh@SD" tvg-name="TVK" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-country="KH" tvg-language="khm" group-title="General",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-name="EAC News TV" tvg-logo="https://i.imgur.com/EuYhS9Z.png" tvg-country="KH" tvg-language="eng" group-title="News",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-name="Fresh News" tvg-logo="https://i.imgur.com/bV6sawt.png" tvg-country="KH" tvg-language="khm" group-title="News",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-name="Sangkem TV" tvg-logo="https://i.imgur.com/728fAcC.png" tvg-country="KH" tvg-language="khm" group-title="Religious",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-id="EBCGeneralEducation.kh@SD" tvg-name="EBC General Education [Not 24/7]" tvg-logo="https://elearning.ebc.edu.kh/pluginfile.php/1/theme_remui/logo/1770608989/ebc-logo.png" tvg-country="KH" tvg-language="khm" group-title="Education",EBC General Education [Not 24/7]
+https://iptv.ebc.edu.kh/iptv/channel/1.m3u8
+#EXTINF:-1 tvg-id="OneTVESchoolCambodia.kh@SD" tvg-name="One TV E-School Cambodia" tvg-logo="https://i.imgur.com/wLzVdeT.png" tvg-country="KH" tvg-language="khm" group-title="Education",One TV E-School Cambodia
+http://49.156.33.114:5080/live/streams/elearning.playlist.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-name="TVK 2" tvg-logo="https://i.imgur.com/L36ptO2.png" tvg-country="KH" tvg-language="khm" group-title="Education",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh@SD" tvg-name="WIKI TV" tvg-logo="https://i.imgur.com/rnV0Ui1.png" tvg-country="KH" tvg-language="khm" group-title="Education",WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD" tvg-name="ARDB TV [Not 24/7]" tvg-logo="https://i.imgur.com/yOncWla.png" tvg-country="KH" tvg-language="khm" group-title="Outdoor",ARDB TV [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-id="CTV9.kh@SD" tvg-name="CTV 9" tvg-logo="https://i.imgur.com/jgVJt2G.png" tvg-country="KH" tvg-language="khm" group-title="Other",CTV 9
+http://43.252.18.195:5080/live/streams/ctv9_hd_playlist.m3u8
+#EXTINF:-1 tvg-id="SEATV.kh@SD" tvg-name="SEATV" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-country="KH" tvg-language="khm" group-title="Other",SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
+#EXTINF:-1 tvg-id="TownTV.kh@SD" tvg-name="Town TV" tvg-logo="https://i.imgur.com/9fUGvVG.png" tvg-country="KH" tvg-language="khm" group-title="Other",Town TV
+https://stream.pdtvhd.com/LiveApp/streams/Townfullhd.m3u8

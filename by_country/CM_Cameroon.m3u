@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CAM10TV.cm@SD" tvg-name="CAM 10 TV" tvg-logo="https://i.imgur.com/xspb9uY.png" tvg-country="CM" tvg-language="fra" group-title="General",CAM 10 TV
+https://stream.it-innov.com/cam10tv/index.m3u8
+#EXTINF:-1 tvg-id="CRTV.cm@SD" tvg-name="CRTV" tvg-logo="https://i.imgur.com/cQWNh3L.png" tvg-country="CM" tvg-language="fra;eng" group-title="General",CRTV
+https://10gb1.acangroup.org:1929/crtv/crtv_all/playlist.m3u8
+#EXTINF:-1 tvg-id="LauraDaveMediaTV.cm@SD" tvg-name="Laura Dave Media TV" tvg-logo="https://i.imgur.com/zzG1S2n.png" tvg-country="CM" tvg-language="fra" group-title="General",Laura Dave Media TV
+https://streaming.lauradavemedia.com/ldm/index.m3u8
+#EXTINF:-1 tvg-id="AfriqueMedia.cm@SD" tvg-name="Afrique Media" tvg-logo="https://i.imgur.com/spQgX7X.png" tvg-country="CM" tvg-language="eng;fra" group-title="News",Afrique Media
+#EXTVLCOPT:http-referrer=https://odysee.com
+https://cloud.odysee.live/content/fe06b3cdc9412e359368b2455b6ea5e93856e382/master.m3u8
+#EXTINF:-1 tvg-id="BalafonTV.cm@SD" tvg-name="Balafon TV [Geo-blocked]" tvg-logo="https://i.imgur.com/EqOzhYw.png" tvg-country="CM" tvg-language="fra" group-title="News",Balafon TV [Geo-blocked]
+https://broadcasting-channels.com:9044/hls/test.m3u8
+#EXTINF:-1 tvg-id="CRTVNews.cm@SD" tvg-name="CRTV News" tvg-logo="https://i.imgur.com/5CshVf9.png" tvg-country="CM" tvg-language="fra" group-title="News",CRTV News
+https://live1.acangroup.org:1929/publiclive/crtv_news/playlist.m3u8
+#EXTINF:-1 tvg-id="PanafricanMediaTV.cm@SD" tvg-name="Panafrican Media TV" tvg-logo="https://i.imgur.com/wneSSYM.png" tvg-country="CM" tvg-language="fra" group-title="News",Panafrican Media TV
+https://live20.bozztv.com/giatv/giatv-pmtv/pmtv/playlist.m3u8
+#EXTINF:-1 tvg-id="CRTVSportsandEntertainment.cm@SD" tvg-name="CRTV Sports and Entertainment" tvg-logo="https://i.imgur.com/DiIei9F.png" tvg-country="CM" tvg-language="fra" group-title="Sports",CRTV Sports and Entertainment
+#EXTVLCOPT:http-referrer=https://crtv.cm/live/crtv-sport
+https://live1.acangroup.org:1929/publiclive/crtv_sport/playlist.m3u8
+#EXTINF:-1 tvg-id="AlloCine.cm@SD" tvg-name="Allo Cine" tvg-logo="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" tvg-country="CM" tvg-language="fre;eng" group-title="Movies",Allo Cine
+https://d1yl6bf4hrzbr0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5km3zs4zs9sp0/allo.m3u8
+#EXTINF:-1 tvg-id="PLEXTV.cm@SD" tvg-name="PLEX TV" tvg-logo="https://i.ibb.co/H4VktvG/Plex-TV-237.jpg" tvg-country="CM" tvg-language="fra" group-title="Entertainment",PLEX TV
+http://connectiktv.ddns.net:5000/plextv/@plextv/playlist.m3u8
+#EXTINF:-1 tvg-id="TR24Television.cm@SD" tvg-name="TR24" tvg-logo="https://i.ibb.co/fQrBY1M/tr24-telepack.jpg" tvg-country="CM" tvg-language="fra" group-title="Entertainment",TR24
+https://stream.it-innov.com/tr24/index.m3u8
+#EXTINF:-1 tvg-id="PlayTV.cm@SD" tvg-name="Play TV [Not 24/7]" tvg-logo="https://i.imgur.com/1dmBqpf.png" tvg-country="CM" tvg-language="fra" group-title="Music",Play TV [Not 24/7]
+http://connectiktv.ddns.net:5000/playtv/@playtv/playlist.m3u8
+#EXTINF:-1 tvg-id="MyTVChannel.cm@SD" tvg-name="My TV Channel [Not 24/7]" tvg-logo="https://i.imgur.com/vh2373L.png" tvg-country="CM" tvg-language="fra" group-title="Other",My TV Channel [Not 24/7]
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8

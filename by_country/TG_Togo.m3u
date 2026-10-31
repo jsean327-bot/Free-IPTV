@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-name="Television Espoir 47" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-country="TG" tvg-language="fra" group-title="General",Television Espoir 47
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-name="Chandel TV" tvg-logo="https://i.imgur.com/jQO7dVE.png" tvg-country="TG" tvg-language="fra" group-title="Entertainment",Chandel TV
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 tvg-id="RTJVA.tg@SD" tvg-name="RT JVA [Not 24/7]" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" tvg-country="TG" tvg-language="fra" group-title="Religious",RT JVA [Not 24/7]
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8

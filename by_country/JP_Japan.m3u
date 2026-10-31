@@ -1,0 +1,30 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NHKGeneralTV.jp@JOJGDTV" tvg-name="NHK General TV JOJG-DTV" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-country="JP" tvg-language="jpn" group-title="General",NHK General TV JOJG-DTV
+https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@SD" tvg-name="NHK WORLD JAPAN" tvg-logo="https://i.imgur.com/Mhw1Ihk.png" tvg-country="JP" tvg-language="jpn;eng" group-title="News",NHK WORLD JAPAN
+https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-name="NHK World-Japan HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/NHK_World_Transparent.png" tvg-country="JP" tvg-language="jpn;eng" group-title="News",NHK World-Japan HD
+https://freem3u.xyz/api/live/play.m3u8?vid=106
+#EXTINF:-1 tvg-id="NHKWorldPremium.jp@SD" tvg-name="NHK World Premium" tvg-logo="https://i.imgur.com/4ESi2La.png" tvg-country="JP" tvg-language="eng;jpn;spa" group-title="Entertainment",NHK World Premium
+https://media-tyo.hls.nhkworld.jp/hls/wp/live/master.m3u8
+#EXTINF:-1 tvg-id="CGNTVJapan.jp@SD" tvg-name="CGNTV Japan" tvg-logo="https://i.imgur.com/5LNZeVq.png" tvg-country="JP" tvg-language="jpn" group-title="Religious",CGNTV Japan
+#EXTVLCOPT:http-referrer=http://japan.cgntv.net/HD_player_jp.html
+https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
+#EXTINF:-1 tvg-id="GSTV.jp@SD" tvg-name="GSTV" tvg-logo="https://i.imgur.com/ECnVG5I.png" tvg-country="JP" tvg-language="jpn" group-title="Shop",GSTV
+https://japaneast.av.mk.io/mediakindcdn-mediakind/ca01a143-f823-4432-b670-c22ff9643ce4/index.qfm/manifest(format=m3u8-cmaf)
+#EXTINF:-1 tvg-id="QVC.jp@SD" tvg-name="QVC" tvg-logo="https://i.imgur.com/6TWUVrh.png" tvg-country="JP" tvg-language="jpn" group-title="Shop",QVC
+https://d1flvb4iqlercm.cloudfront.net/live/live_1080p_2nd.m3u8
+#EXTINF:-1 tvg-id="ShopChannel.jp@SD" tvg-name="ショップチャンネル" tvg-logo="https://i.imgur.com/CCMAF7W.png" tvg-country="JP" tvg-language="jpn" group-title="Shop",ショップチャンネル
+https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="JOAKDTV.jp" tvg-name="NHK総合 (東京) [Geo-blocked]" tvg-logo="https://i.imgur.com/fAZ2BEZ.png" tvg-country="JP" group-title="Other",NHK総合 (東京) [Geo-blocked]
+https://nhk4.mov3.co/hls/nhk.m3u8
+#EXTINF:-1 tvg-id="JORXDTV.jp" tvg-name="TBSテレビ [Geo-blocked]" tvg-logo="https://i.imgur.com/jIZ9TlO.png" tvg-country="JP" group-title="Other",TBSテレビ [Geo-blocked]
+https://tbs5.mov3.co/hls/tbs.m3u8
+#EXTINF:-1 tvg-id="JOEXDTV.jp" tvg-name="テレビ朝日 [Geo-blocked]" tvg-logo="https://i.imgur.com/5XnMfcR.png" tvg-country="JP" group-title="Other",テレビ朝日 [Geo-blocked]
+https://tvasahi.mov3.co/hls/tvasahi.m3u8
+#EXTINF:-1 tvg-id="JOTXDTV.jp" tvg-name="テレビ東京 [Geo-blocked]" tvg-logo="https://i.imgur.com/U8jBxEi.png" tvg-country="JP" group-title="Other",テレビ東京 [Geo-blocked]
+https://tvtokyo.mov3.co/hls/tvtokyo.m3u8
+#EXTINF:-1 tvg-id="JOCXDTV.jp" tvg-name="フジテレビ [Geo-blocked]" tvg-logo="https://i.imgur.com/epJYc7P.png" tvg-country="JP" group-title="Other",フジテレビ [Geo-blocked]
+https://fujitv4.mov3.co/hls/fujitv.m3u8
+#EXTINF:-1 tvg-id="JOAXDTV.jp" tvg-name="日本テレビ [Geo-blocked]" tvg-logo="https://i.imgur.com/ecbM7QS.png" tvg-country="JP" group-title="Other",日本テレビ [Geo-blocked]
+https://ntv5.mov3.co/hls/ntv.m3u8

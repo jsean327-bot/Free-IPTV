@@ -1,0 +1,13 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Okey.my@SD" tvg-name="Okey [Geo-blocked]" tvg-logo="https://i.imgur.com/V2jREQ5.png" tvg-country="MY" tvg-language="msa;eng;zho;tam;pan" group-title="General",Okey [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+#EXTINF:-1 tvg-id="TV1.my@SD" tvg-name="TV1 [Geo-blocked]" tvg-logo="https://i.imgur.com/wSyPmiY.png" tvg-country="MY" tvg-language="msa;eng" group-title="General",TV1 [Geo-blocked]
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/manifest.mpd
+#EXTINF:-1 tvg-id="BeritaRTM.my@SD" tvg-name="Berita RTM [Geo-blocked]" tvg-logo="https://i.imgur.com/1Xzxsgl.png" tvg-country="MY" tvg-language="msa;eng;zho;tam" group-title="News",Berita RTM [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://rtm-player.glueapi.io/
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+#EXTINF:-1 tvg-id="MaahTV.my@SD" tvg-name="Maah TV" tvg-logo="https://i.imgur.com/FkyueH6.png" tvg-country="MY" tvg-language="fas" group-title="Movies",Maah TV
+https://hls.maahtv.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="TVS.my@SD" tvg-name="TVS [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/TVS_Sarawak.jpg/960px-TVS_Sarawak.jpg" tvg-country="MY" tvg-language="msa" group-title="Other",TVS [Geo-blocked]
+https://api.dani-dev.co.za/v1/stream/mytv/live/tvs

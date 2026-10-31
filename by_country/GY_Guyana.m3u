@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DTV8.gy@SD" tvg-name="DTV-8 [Geo-blocked]" tvg-logo="https://i.imgur.com/A5r0aZA.png" tvg-country="GY" tvg-language="eng" group-title="General",DTV-8 [Geo-blocked]
+https://watch.davestv8.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="HGPTV.gy@SD" tvg-name="HGPTV [Not 24/7]" tvg-logo="https://i.imgur.com/0aIH6V5.png" tvg-country="GY" tvg-language="eng" group-title="General",HGPTV [Not 24/7]
+https://cdn-us-east-prod-ingest-infra-dacast-com.akamaized.net/8424fb7f-99a9-87ae-3861-f0620849d11c/source/index.m3u8
+#EXTINF:-1 tvg-id="MTVGuyana.gy@SD" tvg-name="MTV Guyana [Not 24/7]" tvg-logo="https://i.imgur.com/Ky70brA.png" tvg-country="GY" tvg-language="eng" group-title="General",MTV Guyana [Not 24/7]
+https://stream.mtvgy.com/mtvguyana/index.fmp4.m3u8

@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DR1.dk@SD" tvg-name="DR1 [Geo-blocked]" tvg-logo="https://i.imgur.com/wEq8UnG.png" tvg-country="DK" tvg-language="dan" group-title="General",DR1 [Geo-blocked]
+https://drlive01texthls.akamaized.net/hls/live/2014186/drlive01text/master.m3u8
+#EXTINF:-1 tvg-id="DRTV.dk@SD" tvg-name="DRTV" tvg-logo="https://i.ibb.co/c6n2vbW/512px-DR-TV-logo-svg.png" tvg-country="DK" tvg-language="dan" group-title="General",DRTV
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+#EXTINF:-1 tvg-id="KanalHovedstaden.dk@SD" tvg-name="Kanal Hovedstaden" tvg-logo="https://i.imgur.com/MCXYDwH.png" tvg-country="DK" tvg-language="dan" group-title="General",Kanal Hovedstaden
+http://khkbh.dk:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="TVMidtvest.dk@SD" tvg-name="TV/Midt-Vest" tvg-logo="https://i.imgur.com/OU7xIVa.png" tvg-country="DK" tvg-language="dan" group-title="General",TV/Midt-Vest
+http://grevsen.dk/live/catchuptv/catchuptv/13.m3u8
+#EXTINF:-1 tvg-id="TVMarineret.dk@SD" tvg-name="TVMarineret" tvg-logo="https://i.imgur.com/r1Caske.jpg" tvg-country="DK" tvg-language="dan" group-title="General",TVMarineret
+http://sdream.info:8080/hls/livestream/index.m3u8
+#EXTINF:-1 tvg-id="DRRamasjang.dk@SD" tvg-name="DR Ramasjang [Geo-blocked]" tvg-logo="https://i.imgur.com/YD0z2mN.png" tvg-country="DK" tvg-language="dan" group-title="Kids",DR Ramasjang [Geo-blocked]
+https://drlive03texthls.akamaized.net/hls/live/2014191/drlive03text/master.m3u8
+#EXTINF:-1 tvg-id="DR2.dk@SD" tvg-name="DR2 [Geo-blocked]" tvg-logo="https://i.imgur.com/b79UKYN.png" tvg-country="DK" tvg-language="dan" group-title="Culture",DR2 [Geo-blocked]
+https://drlive02texthls.akamaized.net/hls/live/2014188/drlive02text/master.m3u8
+#EXTINF:-1 tvg-id="TVfromtheDanishParliament.dk@SD" tvg-name="Folketinget TV" tvg-logo="https://i.imgur.com/RqQDUzX.png" tvg-country="DK" tvg-language="dan;eng" group-title="Legislative",Folketinget TV
+https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
+#EXTINF:-1 tvg-id="TV2Bornholm.dk@SD" tvg-name="TV 2/Bornholm" tvg-logo="https://i.imgur.com/cEOpXU6.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV 2/Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.m3u8
+#EXTINF:-1 tvg-id="TV2Fyn.dk@SD" tvg-name="TV 2/Fyn" tvg-logo="https://i.imgur.com/4L6AIMH.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV 2/Fyn
+https://cdn.jwplayer.com/live/broadcast/igp9r9oc.mpd
+#EXTINF:-1 tvg-id="TV2Nord.dk@SD" tvg-name="TV 2/Nord" tvg-logo="https://i.imgur.com/tEJ22UW.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV 2/Nord
+http://grevsen.dk/live/catchuptv/catchuptv/14.m3u8
+#EXTINF:-1 tvg-id="TV2Ost.dk@SD" tvg-name="TV 2/Øst" tvg-logo="https://i.imgur.com/H9l6Ulw.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV 2/Øst
+http://grevsen.dk/live/catchuptv/catchuptv/16.m3u8
+#EXTINF:-1 tvg-id="TV2Ostjylland.dk@SD" tvg-name="TV 2/Østjylland" tvg-logo="https://i.imgur.com/qEUXjHp.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV 2/Østjylland
+http://grevsen.dk/live/catchuptv/catchuptv/17.m3u8
+#EXTINF:-1 tvg-id="TVSYD.dk@SD" tvg-name="TV Syd+" tvg-logo="https://i.imgur.com/k2jf591.png" tvg-country="DK" tvg-language="dan" group-title="Other",TV Syd+
+https://cdn.jwplayer.com/live/broadcast/bcZFHqNK.m3u8

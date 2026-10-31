@@ -1,0 +1,65 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="FS1Salzburg.at@SD" tvg-name="FS1 Salzburg [Not 24/7]" tvg-logo="https://i.imgur.com/74gMaPK.png" tvg-country="AT" tvg-language="deu" group-title="General",FS1 Salzburg [Not 24/7]
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+#EXTINF:-1 tvg-id="LandleTV.at@SD" tvg-name="Ländle TV [Not 24/7]" tvg-logo="https://i.imgur.com/omLVQ4r.png" tvg-country="AT" tvg-language="deu" group-title="General",Ländle TV [Not 24/7]
+https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
+#EXTINF:-1 tvg-id="Okto.at@SD" tvg-name="Okto TV" tvg-logo="https://i.imgur.com/9XfhgbS.png" tvg-country="AT" tvg-language="deu" group-title="General",Okto TV
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1 tvg-id="ORF1.at@SD" tvg-name="ORF 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/ORF_1_2019.svg/960px-ORF_1_2019.svg.png" tvg-country="AT" tvg-language="deu" group-title="General",ORF 1
+https://test02.mdn.ors.at/orf/orf1/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="ORF2.at@SD" tvg-name="ORF 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/ORF2_logo_n.svg" tvg-country="AT" tvg-language="deu" group-title="General",ORF 2
+http://88.212.7.14/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@EUMENA" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="eng" group-title="Sports",Red Bull TV
+https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@SD" tvg-name="Red Bull TV" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="eng;deu" group-title="Sports",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@AU" tvg-name="Red Bull TV AU" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="eng" group-title="Sports",Red Bull TV AU
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@BR" tvg-name="Red Bull TV BR" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="por" group-title="Sports",Red Bull TV BR
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-name="Red Bull TV DE" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="deu" group-title="Sports",Red Bull TV DE
+https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@ES" tvg-name="Red Bull TV ES" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="spa" group-title="Sports",Red Bull TV ES
+https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@UK" tvg-name="Red Bull TV UK" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="eng" group-title="Sports",Red Bull TV UK
+https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="RedBullTV.at@US" tvg-name="Red Bull TV US" tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-country="AT" tvg-language="eng" group-title="Sports",Red Bull TV US
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFKids.at@SD" tvg-name="ORF Kids" tvg-logo="https://i.imgur.com/Zxuah2b.png" tvg-country="AT" tvg-language="deu" group-title="Kids",ORF Kids
+https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
+#EXTINF:-1 tvg-id="ServusTV.at@SD" tvg-name="ServusTV" tvg-logo="https://i.imgur.com/6W637Gn.png" tvg-country="AT" tvg-language="deu" group-title="Movies",ServusTV
+https://s6.hopslan.com/servuz1/index.m3u8
+#EXTINF:-1 tvg-id="KTV.at@SD" tvg-name="K-TV" tvg-logo="https://i.imgur.com/RYbR4Sf.png" tvg-country="AT" tvg-language="deu" group-title="Religious",K-TV
+https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+#EXTINF:-1 tvg-id="KITTV.at@SD" tvg-name="KIT-TV" tvg-logo="https://i.imgur.com/5rDo1Za.png" tvg-country="AT" tvg-language="deu" group-title="Religious",KIT-TV
+https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+#EXTINF:-1 tvg-id="AntenneKaernten.at@SD" tvg-name="Antenne Kaernten" tvg-logo="https://i.imgur.com/nUKFDsb.jpeg" tvg-country="AT" tvg-language="deu" group-title="Music",Antenne Kaernten
+https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="AntenneSteiermark.at@SD" tvg-name="Antenne Steiermark" tvg-logo="https://i.imgur.com/qnappvd.jpeg" tvg-country="AT" tvg-language="deu" group-title="Music",Antenne Steiermark
+https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="HitradioO3.at@SD" tvg-name="Hitradio O3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Hitradio_%C3%963.svg/960px-Hitradio_%C3%963.svg.png" tvg-country="AT" tvg-language="deu" group-title="Music",Hitradio O3
+https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/manifest.mpd
+#EXTINF:-1 tvg-id="Kronehit.at@SD" tvg-name="Kronehit" tvg-logo="https://i.imgur.com/dQJQv1X.png" tvg-country="AT" tvg-language="deu" group-title="Music",Kronehit
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@SD" tvg-name="ORF III [Geo-blocked]" tvg-logo="https://i.imgur.com/6BuiUE7.png" tvg-country="AT" tvg-language="deu" group-title="Culture",ORF III [Geo-blocked]
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" tvg-name="Schladming-Dachstein TV" tvg-logo="https://i.ibb.co/VjnzhMM/Logo-Schl-Dachstein-TV-HP-JPG.jpg" tvg-country="AT" tvg-language="deu" group-title="Travel",Schladming-Dachstein TV
+https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" tvg-name="Swamiji TV American [Not 24/7]" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="Outdoor",Swamiji TV American [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVAustralian.at@SD" tvg-name="Swamiji TV Australian [Not 24/7]" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="Outdoor",Swamiji TV Australian [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwamijiTVEuropean.at@SD" tvg-name="Swamiji TV European [Not 24/7]" tvg-logo="https://i.imgur.com/nrLcuzs.png" tvg-country="AT" tvg-language="eng" group-title="Outdoor",Swamiji TV European [Not 24/7]
+https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Oe24TV.at" tvg-name="oe24" tvg-logo="https://i.imgur.com/8UTkcPn.png" tvg-country="AT" group-title="Other",oe24
+https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
+#EXTINF:-1 tvg-id="R9.at@SD" tvg-name="R9" tvg-logo="https://i.imgur.com/2fxVYsL.jpg" tvg-country="AT" tvg-language="deu" group-title="Other",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTV.at@SD" tvg-name="RTV" tvg-logo="https://i.imgur.com/oD7GQxT.png" tvg-country="AT" tvg-language="deu" group-title="Other",RTV
+http://iptv.rtv-ooe.at/stream.m3u8
+#EXTINF:-1 tvg-id="TirolTV.at@SD" tvg-name="Tirol TV [Geo-blocked]" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" tvg-country="AT" tvg-language="deu" group-title="Other",Tirol TV [Geo-blocked]
+https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+#EXTINF:-1 tvg-id="TV1Oberosterreich.at@SD" tvg-name="TV 1 Oberösterreich" tvg-logo="https://i.imgur.com/KbMkEIn.png" tvg-country="AT" tvg-language="deu" group-title="Other",TV 1 Oberösterreich
+https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+#EXTINF:-1 tvg-id="W24.at@SD" tvg-name="W24" tvg-logo="https://i.imgur.com/PGb4wYw.png" tvg-country="AT" tvg-language="deu" group-title="Other",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8

@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Kohavision.xk@SD" tvg-name="Kohavision" tvg-logo="https://i.imgur.com/LOi9yma.png" tvg-country="XK" tvg-language="sqi;srp" group-title="News",Kohavision
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/tracks-v4a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVArta.xk@SD" tvg-name="TV Arta" tvg-logo="https://i.imgur.com/MAhJkK9.png" tvg-country="XK" tvg-language="sqi" group-title="News",TV Arta
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+#EXTINF:-1 tvg-id="RTK3.xk@SD" tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-country="XK" tvg-language="sqi" group-title="Other",RTK 3
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+#EXTINF:-1 tvg-id="RTV21.xk@SD" tvg-name="RTV21" tvg-logo="https://i.imgur.com/AqQltGh.png" tvg-country="XK" tvg-language="sqi" group-title="Other",RTV21
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-id="TVDielli.xk@SD" tvg-name="TV Dielli [Not 24/7]" tvg-logo="https://i.imgur.com/kLl3ar5.png" tvg-country="XK" tvg-language="sqi" group-title="Other",TV Dielli [Not 24/7]
+http://stream.tvdielli.com:8081/dielli/index.m3u8
+#EXTINF:-1 tvg-id="TVOpoja.xk@SD" tvg-name="TV Opoja [Not 24/7]" tvg-logo="https://i.imgur.com/hxi4Qiq.png" tvg-country="XK" tvg-language="sqi" group-title="Other",TV Opoja [Not 24/7]
+http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSyri.xk@SD" tvg-name="TV Syri" tvg-logo="https://i.imgur.com/ZQuFosn.png" tvg-country="XK" tvg-language="sqi" group-title="Other",TV Syri
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8

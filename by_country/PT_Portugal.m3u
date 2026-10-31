@@ -1,0 +1,81 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="PortoCanal.pt@SD" tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-country="PT" tvg-language="por" group-title="General",Porto Canal
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPAfrica.pt@SD" tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-country="PT" tvg-language="por" group-title="General",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTP1.pt@HD" tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-country="PT" tvg-language="por" group-title="General",RTP1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SIC.pt@SD" tvg-name="SIC" tvg-logo="https://i.imgur.com/SPMqiDG.png" tvg-country="PT" tvg-language="por" group-title="General",SIC
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9aa54bbe52b1bd9b6b/channels/d9070446-8448-455e-8075-773b1ba12562/fc831b20-f252-4e7d-8cc5-2d05f4d43c1c/media_.m3u8
+#EXTINF:-1 tvg-id="CNNPortugal.pt@SD" tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-country="PT" tvg-language="por" group-title="News",CNN Portugal
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@SD" tvg-name="RTP Noticias [Not 24/7]" tvg-logo="https://cdn-images.rtp.pt/common/img/channels/logos/color/horizontal/rtpnoticias_2026.png" tvg-country="PT" tvg-language="por" group-title="News",RTP Noticias [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/livetvhlsDVR/rtpndvr.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPNoticias.pt@HD" tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-country="PT" tvg-language="por" group-title="News",RTP notícias
+https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICNoticias.pt@SD" tvg-name="SIC Notícias [Geo-blocked]" tvg-logo="https://i.imgur.com/Gi6Q26M.png" tvg-country="PT" tvg-language="por" group-title="News",SIC Notícias [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://sicnoticias.pt/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:149.0) Gecko/20100101 Firefox/149.0
+https://sicnot.live.impresa.pt/sicnot.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@AU" tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-country="PT" tvg-language="eng" group-title="Sports",Fuel TV
+https://amg01074-fueltv-fueltvau-samsungau-g09kq.amagi.tv/playlist/amg01074-fueltv-fueltvau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@EMEA" tvg-name="FUEL TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-country="PT" tvg-language="eng" group-title="Sports",FUEL TV
+https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@SD" tvg-name="Fuel TV" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-country="PT" group-title="Sports",Fuel TV
+https://amg01074-fueltv-amg01074c1-stirr-us-4214.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FUELTV.pt@US" tvg-name="Fuel TV [Geo-blocked]" tvg-logo="https://i.imgur.com/I8mviBy.png" tvg-country="PT" tvg-language="eng" group-title="Sports",Fuel TV [Geo-blocked]
+https://amg01074-fueltv-amg01074c1-firetv-us-3150.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="AXNMovies.pt@SD" tvg-name="AXN Movies" tvg-logo="https://i.imgur.com/tJQckal.png" tvg-country="PT" tvg-language="por" group-title="Movies",AXN Movies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://50.7.120.34:8080/AXN_BLACK/index.m3u8
+#EXTINF:-1 tvg-id="KuriakosCine.pt@SD" tvg-name="Kuriakos Cine" tvg-logo="https://i.imgur.com/CZViCwB.jpg" tvg-country="PT" tvg-language="por" group-title="Movies",Kuriakos Cine
+https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVIFiccao.pt@SD" tvg-name="TVI Ficção" tvg-logo="https://cdn.iol.pt/img/logostvi/branco/tvificcao.png" tvg-country="PT" tvg-language="por" group-title="Series",TVI Ficção
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvificcao.m3u8
+#EXTINF:-1 tvg-id="TVIReality.pt@SD" tvg-name="TVI Reality [Not 24/7]" tvg-logo="https://i.imgur.com/C9rxqA5.png" tvg-country="PT" tvg-language="por" group-title="Entertainment",TVI Reality [Not 24/7]
+https://raw.githubusercontent.com/thomraider12/canaistvpt/main/m3u8s/tvireality.m3u8
+#EXTINF:-1 tvg-id="ADBTV.pt@SD" tvg-name="ADB TV" tvg-logo="https://i.ibb.co/HGfTJwt/ADBTV.jpg" tvg-country="PT" tvg-language="por" group-title="Religious",ADB TV
+https://live-tv.waytv.pt/adbtv/adbtv/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosTV.pt@SD" tvg-name="Kuriakos TV" tvg-logo="https://i.imgur.com/xdAW0D5.png" tvg-country="PT" tvg-language="por" group-title="Religious",Kuriakos TV
+https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaChurchOnline.pt@SD" tvg-name="Maná Church Online [Not 24/7]" tvg-logo="https://i.imgur.com/FRDJSim.png" tvg-country="PT" tvg-language="eng" group-title="Religious",Maná Church Online [Not 24/7]
+https://w2.manasat.com/church-online/smil:church-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaCirkevOnline.pt@SD" tvg-name="Maná Cirkev Online [Not 24/7]" tvg-logo="https://i.imgur.com/tYhXeRq.png" tvg-country="PT" tvg-language="slk" group-title="Religious",Maná Cirkev Online [Not 24/7]
+https://w2.manasat.com/cirkev-online/smil:cirkev-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIglesiaOnline.pt@SD" tvg-name="Maná Iglesia Online [Not 24/7]" tvg-logo="https://i.imgur.com/0IUvfcJ.png" tvg-country="PT" tvg-language="spa" group-title="Religious",Maná Iglesia Online [Not 24/7]
+https://w2.manasat.com/iglesia-online/smil:iglesia-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaIgrejaOnline.pt@SD" tvg-name="Maná Igreja Online [Not 24/7]" tvg-logo="https://i.imgur.com/0IUvfcJ.png" tvg-country="PT" tvg-language="por" group-title="Religious",Maná Igreja Online [Not 24/7]
+https://w1.manasat.com/igrejaonline/smil:igrejaonline.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaTserkovOnlayn.pt@SD" tvg-name="Maná Tserkov' Onlayn [Not 24/7]" tvg-logo="https://i.imgur.com/PruXLqS.png" tvg-country="PT" tvg-language="rus" group-title="Religious",Maná Tserkov' Onlayn [Not 24/7]
+https://w2.manasat.com/tserkov-online/smil:tserkov-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ManaEgliseOnline.pt@SD" tvg-name="Maná Église Online [Not 24/7]" tvg-logo="https://i.imgur.com/xQYly8O.png" tvg-country="PT" tvg-language="fra" group-title="Religious",Maná Église Online [Not 24/7]
+https://w2.manasat.com/eglise-online/smil:eglise-online.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana1.pt@SD" tvg-name="TV Maná 1" tvg-logo="https://i.imgur.com/6jNqpTP.png" tvg-country="PT" tvg-language="por" group-title="Religious",TV Maná 1
+https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMana2.pt@SD" tvg-name="TV Maná 2" tvg-logo="https://i.imgur.com/VYNjVov.png" tvg-country="PT" tvg-language="por" group-title="Religious",TV Maná 2
+https://w1.manasat.com/tvmana-2/smil:tvmana-2.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaBrasil.pt@SD" tvg-name="TV Maná Brasil" tvg-logo="https://i.imgur.com/AFb712e.png" tvg-country="PT" tvg-language="por" group-title="Religious",TV Maná Brasil
+https://w1.manasat.com/tvmana-brasil/smil:tvmana-brasil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEnglish.pt@SD" tvg-name="TV Maná English" tvg-logo="https://i.imgur.com/I66IkCw.png" tvg-country="PT" tvg-language="eng" group-title="Religious",TV Maná English
+https://w1.manasat.com/tvmana-english/smil:tvmana-english.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaEspanhol.pt@SD" tvg-name="TV Maná Español" tvg-logo="https://i.imgur.com/sUlrSwP.png" tvg-country="PT" tvg-language="spa" group-title="Religious",TV Maná Español
+https://w1.manasat.com/tvmana-espanol/smil:tvmana-espanol.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVManaRusskiy.pt@SD" tvg-name="TV Maná Russkiy" tvg-logo="https://i.imgur.com/fACHqmY.png" tvg-country="PT" tvg-language="rus" group-title="Religious",TV Maná Russkiy
+https://w1.manasat.com/tvmana-leste/smil:tvmana-leste.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosMusic.pt@SD" tvg-name="Kuriakos Music" tvg-logo="https://i.imgur.com/Zl40NYi.jpg" tvg-country="PT" tvg-language="por" group-title="Music",Kuriakos Music
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ONFM.pt@SD" tvg-name="ON FM" tvg-logo="https://onfmwordpressfiles.ams3.digitaloceanspaces.com/wp-content/uploads/2023/03/17130121/logo-on-fm.png" tvg-country="PT" tvg-language="por" group-title="Music",ON FM
+https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="RFPtv.pt@SD" tvg-name="RFPtv" tvg-logo="https://i.imgur.com/I60nQuR.png" tvg-country="PT" tvg-language="por" group-title="Music",RFPtv
+https://video03.logicahost.com.br/rfptv/rfptv/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-name="Kuriakos Kids" tvg-logo="https://i.imgur.com/SRX6EPY.png" tvg-country="PT" tvg-language="por" group-title="Animation",Kuriakos Kids
+https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ARTV.pt@SD" tvg-name="ARTV Canal Parlamento [Not 24/7]" tvg-logo="https://i.imgur.com/y00t9hr.png" tvg-country="PT" tvg-language="por" group-title="Legislative",ARTV Canal Parlamento [Not 24/7]
+https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
+#EXTINF:-1 tvg-name="ADtv" tvg-logo="https://i.imgur.com/FvlcU3z.png" tvg-country="PT" group-title="Other",ADtv
+https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-country="PT" group-title="Other",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SICReplay.pt@SD" tvg-name="SIC Replay" tvg-logo="https://i.imgur.com/fj84mXz.png" tvg-country="PT" tvg-language="por" group-title="Other",SIC Replay
+https://production-fast-sic.content.okast.tv/fa2e8c4385712f9a7dce4ff2dcebac2e/channels/d9070446-8448-455e-8075-773b1ba12562/d47eae0f-ad77-414a-9a1d-2a6628ba18c3/media_.m3u8

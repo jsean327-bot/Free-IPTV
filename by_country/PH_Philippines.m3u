@@ -1,0 +1,25 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CLTV36.ph@SD" tvg-name="CLTV 36 [Not 24/7]" tvg-logo="https://i.imgur.com/2fGhl7q.png" tvg-country="PH" tvg-language="tgl;eng;pam" group-title="General",CLTV 36 [Not 24/7]
+https://live.cltv36.tv:5443/LiveApp/streams/cltvlive.m3u8
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph@HD" tvg-name="Mindanow Network TV" tvg-logo="https://i.imgur.com/xBlYirh.jpeg" tvg-country="PH" tvg-language="eng;tgl;ceb" group-title="General",Mindanow Network TV
+https://cdn.vegasplus.us/vegas/mmn01/playlist.m3u8
+#EXTINF:-1 tvg-id="AbanteTV.ph@HD" tvg-name="Abante TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Abante_masthead.svg" tvg-country="PH" tvg-language="eng" group-title="News",Abante TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="BilyonaryoNewsChannel.ph@SD" tvg-name="Bilyonaryo News Channel [Geo-blocked]" tvg-logo="https://i.imgur.com/iTH9Z0j.png" tvg-country="PH" tvg-language="eng;fil" group-title="News",Bilyonaryo News Channel [Geo-blocked]
+https://amg19223-amg19223c11-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c11-amgplt0352/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports.ph@SD" tvg-name="Premier Sports" tvg-logo="https://i.imgur.com/BURPHzI.png" tvg-country="PH" tvg-language="eng" group-title="Sports",Premier Sports
+https://amg19223-amg19223c3-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c3-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="PremierSports2.ph@SD" tvg-name="Premier Sports 2" tvg-logo="https://i.imgur.com/UQeXWd2.png" tvg-country="PH" tvg-language="eng" group-title="Sports",Premier Sports 2
+https://amg19223-amg19223c4-amgplt0351.playout.now3.amagi.tv/playlist/amg19223-amg19223c4-amgplt0351/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph@SD" tvg-name="CCTN 47 [Not 24/7]" tvg-logo="https://i.imgur.com/IFpAmvW.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",CCTN 47 [Not 24/7]
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="HopeChannelPhilippines.ph@SD" tvg-name="Hope Channel Philippines" tvg-logo="https://i.imgur.com/LB2vmMt.png" tvg-country="PH" tvg-language="eng;fil;ceb" group-title="Religious",Hope Channel Philippines
+https://jstre.am/live/jsl:nX5eC7gQvZb.m3u8
+#EXTINF:-1 tvg-id="INCRadio.ph@SD" tvg-name="INC Radio" tvg-logo="https://i.imgur.com/y2Nrr68.png" tvg-country="PH" tvg-language="tgl;eng" group-title="Religious",INC Radio
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_b60a96e056fc11f084c05f5d0649296b/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="INCTV.ph@SD" tvg-name="INC TV" tvg-logo="https://i.imgur.com/iC11uWK.png" tvg-country="PH" tvg-language="tgl" group-title="Religious",INC TV
+https://stream-243529.castr.net/6842a712b68c56f675d988f1/live_f5ac22b0566511f0805217b960326aaa/rewind-1800.m3u8
+#EXTINF:-1 tvg-id="LivingAsiaChannel.ph@HD" tvg-name="Living Asia Channel" tvg-logo="https://i.imgur.com/q3UToRM.png" tvg-country="PH" tvg-language="eng;tgl" group-title="Travel",Living Asia Channel
+https://cdn.vegasplus.us/vegas/lac/playlist.m3u8
+#EXTINF:-1 tvg-id="SMNI.ph@SD" tvg-name="SMNI" tvg-logo="https://i.imgur.com/9QhVnqY.jpg" tvg-country="PH" tvg-language="tgl" group-title="Other",SMNI
+https://stream.kdlc.click/hls/0/stream.m3u8

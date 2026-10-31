@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KantipurTV.np@HD" tvg-name="Kantipur TV" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="nep;eng;mai" group-title="General",Kantipur TV
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_1080/chunks.m3u8
+#EXTINF:-1 tvg-id="KantipurTV.np@SD" tvg-name="Kantipur TV SD" tvg-logo="https://i.imgur.com/HEVo2Gc.png" tvg-country="NP" tvg-language="nep;mai" group-title="General",Kantipur TV SD
+https://ktvhdsg.ekantipur.com:8443/high_quality_85840165/hd/kantipurtv/hd_720/chunks.m3u8
+#EXTINF:-1 tvg-id="MithilaNepalTV.np@SD" tvg-name="Mithila Nepal TV" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" tvg-country="NP" tvg-language="nep" group-title="General",Mithila Nepal TV
+http://150.107.205.212:1935/live/mithila/playlist.m3u8?DVR=
+#EXTINF:-1 tvg-id="KantipurMax.np@SD" tvg-name="Kantipur Max [Geo-blocked]" tvg-logo="https://i.imgur.com/EZUyzhG.jpg" tvg-country="NP" tvg-language="nep" group-title="Movies",Kantipur Max [Geo-blocked]
+https://ktvhdsg.ekantipur.com:8443/ktvmax2025/match2/playlist.m3u8
+#EXTINF:-1 tvg-id="TVTodayJanakpur.np@SD" tvg-name="TV Today Janakpur" tvg-logo="https://i.ibb.co/Gf9VH1VN/TV-Today-Janakpur.png" tvg-country="NP" tvg-language="nep;eng;mai" group-title="Entertainment",TV Today Janakpur
+https://tvtoday.rpmc.com.np/hls/bipashatech/1_2/index.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@SD" tvg-name="Divya Darshan TV" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" tvg-country="NP" tvg-language="nep" group-title="Religious",Divya Darshan TV
+http://live.divyadarshantv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="DivyaDarshanTV.np@HD" tvg-name="Divya Darshan TV HD" tvg-logo="https://i.ibb.co/WWn5gFnp/Divya-Darshan-TV-HD.png" tvg-country="NP" tvg-language="nep;mai" group-title="Religious",Divya Darshan TV HD
+https://live.divyadarshantv.com/hls/0/stream.m3u8

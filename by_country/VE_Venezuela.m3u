@@ -1,0 +1,105 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Canal21Tachira.ve@SD" tvg-name="Canal 21 Táchira" tvg-logo="https://i.imgur.com/7Tb7CF4.jpg" tvg-country="VE" tvg-language="spa" group-title="General",Canal 21 Táchira
+https://stmv2.voxtvhd.com.br/canal21/canal21/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCdelZulia.ve@HD" tvg-name="Canal C del Zulia" tvg-logo="https://i.imgur.com/ew44KOZ.png" tvg-country="VE" tvg-language="spa" group-title="General",Canal C del Zulia
+#EXTVLCOPT:http-referrer=https://canalc.vercel.app
+https://calm-forest-3478.cristianbracho904.workers.dev/live/index.m3u8
+#EXTINF:-1 tvg-id="CatatumboTV.ve@SD" tvg-name="Catatumbo TV" tvg-logo="https://i.imgur.com/LBI2la0.png" tvg-country="VE" tvg-language="spa" group-title="General",Catatumbo TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/catatumbotv.m3u8
+#EXTINF:-1 tvg-id="Globovision.ve@SD" tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" tvg-country="VE" tvg-language="spa" group-title="General",Globovisión
+http://181.78.8.199:8000/play/a09k/index.m3u8
+#EXTINF:-1 tvg-id="IslaTV.ve@SD" tvg-name="Isla TV" tvg-logo="https://i.imgur.com/l11Ixhi.jpeg" tvg-country="VE" tvg-language="spa" group-title="General",Isla TV
+https://59d39900ebfb8.streamlock.net/islatv/islatv/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinaTV.ve@SD" tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-country="VE" tvg-language="spa" group-title="General",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
+#EXTINF:-1 tvg-id="PromarTV.ve@SD" tvg-name="PromarTV [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9f/Promar_Television.png" tvg-country="VE" tvg-language="spa" group-title="General",PromarTV [Not 24/7]
+http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
+#EXTINF:-1 tvg-id="SiembraTV.ve@SD" tvg-name="Siembra TV [Not 24/7]" tvg-logo="https://i.imgur.com/zRX91Xr.png" tvg-country="VE" tvg-language="spa" group-title="General",Siembra TV [Not 24/7]
+https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
+#EXTINF:-1 tvg-id="TAMTV.ve@SD" tvg-name="TAM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" tvg-country="VE" tvg-language="spa" group-title="General",TAM TV
+https://rtmp.tamtv.com.ve/tmp_hls/stream/index.m3u8
+#EXTINF:-1 tvg-id="TeleAragua.ve@SD" tvg-name="TeleAragua" tvg-logo="https://i.imgur.com/jPzcb2S.png" tvg-country="VE" tvg-language="spa" group-title="General",TeleAragua
+http://45.173.198.59:8080/hls/nginx3.m3u8?tla=
+#EXTINF:-1 tvg-id="Telecentro.ve@SD" tvg-name="Telecentro [Not 24/7]" tvg-logo="https://i.imgur.com/QtRNfaj.png" tvg-country="VE" tvg-language="spa" group-title="General",Telecentro [Not 24/7]
+https://streamtv.intervenhosting.net:3531/live/telecentrovelive.m3u8
+#EXTINF:-1 tvg-id="Televen.ve@SD" tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" tvg-country="VE" tvg-language="spa" group-title="General",Televen
+http://181.78.8.199:8000/play/a09j/index.m3u8
+#EXTINF:-1 tvg-id="TelevisoradeOriente.ve@SD" tvg-name="Televisora de Oriente" tvg-logo="https://i.imgur.com/wFC6Xxq.png" tvg-country="VE" tvg-language="spa" group-title="General",Televisora de Oriente
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
+#EXTINF:-1 tvg-id="TNORadio.ve@SD" tvg-name="TNO Radio" tvg-logo="https://i.ibb.co/0rYsbRk/Logo-TNO-2021-white.png" tvg-country="VE" tvg-language="spa" group-title="General",TNO Radio
+https://stmv1.srvstm.com/tnovideo1/tnovideo1/playlist.m3u8
+#EXTINF:-1 tvg-id="TRT.ve@SD" tvg-name="TRT [Not 24/7]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Canal_trt_logo.PNG" tvg-country="VE" tvg-language="spa" group-title="General",TRT [Not 24/7]
+https://vcp12.myplaytv.com/trt/trt/playlist.m3u8
+#EXTINF:-1 tvg-id="TuTV.ve@SD" tvg-name="Tu TV" tvg-logo="https://i.imgur.com/OBEmXQF.png" tvg-country="VE" tvg-language="spa" group-title="General",Tu TV
+https://astl-mainstr.qvixsolutions.com/asltvtu_ext/index.m3u8
+#EXTINF:-1 tvg-id="TVOasisMonay.ve@SD" tvg-name="TV Oasis Monay" tvg-logo="https://i.imgur.com/hwd7osJ.jpeg" tvg-country="VE" tvg-language="spa" group-title="General",TV Oasis Monay
+https://live.teve.pro/live/tvoasis/index.m3u8
+#EXTINF:-1 tvg-id="TVMparati.ve@SD" tvg-name="TVM para ti" tvg-logo="https://intervenhosting.net/imagenes/tvmparati.jpg" tvg-country="VE" tvg-language="spa" group-title="General",TVM para ti
+https://streamtv.intervenhosting.net:3529/live/tvmparatilive.m3u8
+#EXTINF:-1 tvg-id="UniTV.ve@SD" tvg-name="UniTV" tvg-logo="https://i.imgur.com/KLGeznX.png" tvg-country="VE" tvg-language="spa" group-title="General",UniTV
+https://vcp6.myplaytv.com/unitv/unitv/playlist.m3u8
+#EXTINF:-1 tvg-id="ValeTV.ve@SD" tvg-name="Vale TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/Logo_de_VALE_TV.png" tvg-country="VE" tvg-language="spa" group-title="General",Vale TV
+https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8
+#EXTINF:-1 tvg-id="Venevision.ve@SD" tvg-name="Venevision" tvg-logo="https://i.imgur.com/gm1m8hW.png" tvg-country="VE" tvg-language="spa" group-title="General",Venevision
+http://181.78.8.199:8000/play/a0if/index.m3u8
+#EXTINF:-1 tvg-id="VenevisionInternacional.ve@SD" tvg-name="Venevisión Internacional" tvg-logo="https://i.imgur.com/vtGED07.jpg" tvg-country="VE" tvg-language="spa" group-title="General",Venevisión Internacional
+https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
+#EXTINF:-1 tvg-id="VepacoTV.ve@SD" tvg-name="Vepaco TV" tvg-logo="https://i.imgur.com/0bqJksL.png" tvg-country="VE" tvg-language="spa" group-title="General",Vepaco TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
+#EXTINF:-1 tvg-id="WataVision.ve@SD" tvg-name="Wata Vision" tvg-logo="https://qtrypzzcjebvfcihiynt.supabase.co/storage/v1/object/public/base44-prod/public/6957c378f20b5c77b1942a25/240b9ab5a_IMG_1222.jpeg" tvg-country="VE" tvg-language="spa" group-title="General",Wata Vision
+https://live20.bozztv.com/giatv/giatv-watavision/watavision/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalI.ve@SD" tvg-name="Canal I" tvg-logo="https://i.imgur.com/vKfOavW.png" tvg-country="VE" tvg-language="spa" group-title="News",Canal I
+https://streaming.canal-i.com/canal-i/live/master.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@SD" tvg-name="Telesur" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="VE" tvg-language="spa" group-title="News",Telesur
+http://181.78.211.244:8005/play/a0cc/index.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@English" tvg-name="Telesur English" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="VE" tvg-language="eng" group-title="News",Telesur English
+https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@EnglishHD" tvg-name="Telesur English HD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="VE" tvg-language="eng" group-title="News",Telesur English HD
+https://mblenmain01.telesur.ultrabase.net/mblivev3/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="Telesur.ve@HD" tvg-name="Telesur HD" tvg-logo="https://i.imgur.com/P50VjRX.png" tvg-country="VE" tvg-language="spa" group-title="News",Telesur HD
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
+#EXTINF:-1 tvg-id="UN24.ve@untv720" tvg-name="UN24" tvg-logo="https://i.imgur.com/nGJlulj.png" tvg-country="VE" group-title="News",UN24
+#EXTVLCOPT:http-referrer=https://un24.tv/
+https://59d39900ebfb8.streamlock.net/untv-720/untv-720/playlist.m3u8
+#EXTINF:-1 tvg-id="AS3SportTV.ve@SD" tvg-name="AS3 Sport TV" tvg-logo="https://intervenhosting.net/imagenes/as3sporttv.jpg" tvg-country="VE" tvg-language="spa" group-title="Sports",AS3 Sport TV
+https://streamtv.as3sport.online:3394/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MeridianoTV.ve@SD" tvg-name="Meridiano TV" tvg-logo="https://i.imgur.com/I6gsUqD.png" tvg-country="VE" tvg-language="spa" group-title="Sports",Meridiano TV
+http://181.78.8.199:8000/play/a0fr/index.m3u8
+#EXTINF:-1 tvg-id="AbejalesTV.ve@HD" tvg-name="AbejalesTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEgao1fVZ7tV_ExJErlM5JsI8Rxv5TXJSU7ZE6p-g_qSXOiRKrAjCmX650Aw1PYv6cPqML3eKDQGZ_Z5BPYpeLwwAbZay3g4mpTVBW9Xs5D9nEVPD1i9xfOKQsRCFrOJhBgRt9L9yhfLimbu7S4Ozio2tiZ5uc45lRtyS6RjMpI-Ts1n2m_THG8K19R4STns=w800" tvg-country="VE" tvg-language="spa" group-title="Entertainment",AbejalesTV
+https://183.bozztv.com/giatv/giatv-AbejalesTV/AbejalesTV/playlist.m3u8
+#EXTINF:-1 tvg-id="AguacateTV.ve@SD" tvg-name="Aguacate TV" tvg-logo="https://i.ibb.co/wpWBsgf/IMG-20230705-154622.jpg" tvg-country="VE" tvg-language="spa" group-title="Entertainment",Aguacate TV
+https://stream.aguacatetv.com:3949/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="GuaroTV.ve@SD" tvg-name="Guaro TV" tvg-logo="https://i.ibb.co/LN92K6h/IMG-20230705-154347.jpg" tvg-country="VE" tvg-language="spa" group-title="Entertainment",Guaro TV
+https://stream.guarotv.net:3592/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="LaTeleTuya.ve@SD" tvg-name="La Tele Tuya" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Tele_Tuya_Logo_%282026%29.png" tvg-country="VE" tvg-language="spa" group-title="Entertainment",La Tele Tuya
+http://181.78.8.199:8000/play/a0fs/index.m3u8
+#EXTINF:-1 tvg-id="LaraenRedes.ve@SD" tvg-name="Lara en Redes" tvg-logo="https://laraenredes.com/wp-content/uploads/elementor/thumbs/LOGO-LARA-EN-REDES-2025-r768xu4o4gvkigl9v1lorc3aq3n35710u0g7cah8e0.jpg" tvg-country="VE" tvg-language="spa" group-title="Entertainment",Lara en Redes
+https://streamtv.laraenredes.com:3020/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="MasTalk.ve@SD" tvg-name="Más Talk" tvg-logo="https://i.imgur.com/unE2LGz.jpg" tvg-country="VE" tvg-language="spa" group-title="Entertainment",Más Talk
+https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f.m3u8
+#EXTINF:-1 tvg-id="VePlus.ve@Venezuela" tvg-name="Ve Plus" tvg-logo="https://i.imgur.com/uc3zqcP.png" tvg-country="VE" tvg-language="spa" group-title="Entertainment",Ve Plus
+http://186.148.196.100:8000/play/a01d
+#EXTINF:-1 tvg-id="LGDTelevision.ve@SD" tvg-name="LGD Television" tvg-logo="https://i.imgur.com/a9E0DTY.jpeg" tvg-country="VE" tvg-language="spa" group-title="Religious",LGD Television
+https://streamtv.intervenhosting.net:3403/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="ReformaTV.ve@SD" tvg-name="Reforma TV" tvg-logo="https://i.imgur.com/iZMDddR.png" tvg-country="VE" tvg-language="spa" group-title="Religious",Reforma TV
+https://5bf8041cb3fed.streamlock.net/ReformaTV/ReformaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="BTATV.ve@SD" tvg-name="BTA TV" tvg-logo="https://i.imgur.com/vygOosC.png" tvg-country="VE" tvg-language="spa" group-title="Music",BTA TV
+https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8
+#EXTINF:-1 tvg-id="TVFamilia.ve@SD" tvg-name="TV Familia" tvg-logo="https://i.imgur.com/A3bU5e7.png" tvg-country="VE" tvg-language="spa" group-title="Family",TV Familia
+https://59d39900ebfb8.streamlock.net/tvfamilia_270p/tvfamilia_270p/playlist.m3u8
+#EXTINF:-1 tvg-id="eSportsMaxTV.ve@SD" tvg-name="eSports Max TV" tvg-logo="https://i.imgur.com/OprRgQN.png" tvg-country="VE" tvg-language="spa" group-title="Animation",eSports Max TV
+https://cdnlive.klicgo.net/esportsmax/live/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="MAXAnime.ve@SD" tvg-name="MAX Anime" tvg-logo="https://i.imgur.com/Oj3hEBh.jpg" tvg-country="VE" tvg-language="spa" group-title="Animation",MAX Anime
+https://cdnlive.klicgo.net/maxanime/live/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalDiplomatico.ve@SD" tvg-name="Canal Diplomatico" tvg-logo="https://i.ibb.co/34vsSzS/1439-Canal-Diplomatico.png" tvg-country="VE" tvg-language="spa" group-title="Culture",Canal Diplomatico
+https://master.myplaytv.com:2020/hls/canaldiplomatico/canaldiplomatico.m3u8
+#EXTINF:-1 tvg-id="ShowVenTV.ve@SD" tvg-name="ShowVen TV" tvg-logo="https://i.imgur.com/AJIN8Dc.png" tvg-country="VE" tvg-language="spa" group-title="Culture",ShowVen TV
+https://cdnbarinas.tvzamora.com/showven/index.m3u8
+#EXTINF:-1 tvg-id="PlousTV.ve@SD" tvg-name="Plous TV" tvg-logo="https://i.imgur.com/OSet4en.png" tvg-country="VE" tvg-language="spa;eng" group-title="Lifestyle",Plous TV
+https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
+#EXTINF:-1 tvg-id="SunChannel.ve@SD" tvg-name="Sun Channel" tvg-logo="https://i.imgur.com/B26qL3e.png" tvg-country="VE" tvg-language="spa" group-title="Travel",Sun Channel
+http://168.196.127.137:6001/play/a06p/index.m3u8
+#EXTINF:-1 tvg-id="ANTV.ve@SD" tvg-name="ANTV" tvg-logo="https://i.imgur.com/Qm88HT0.png" tvg-country="VE" tvg-language="spa" group-title="Legislative",ANTV
+http://181.78.8.199:8000/play/a0fo/index.m3u8
+#EXTINF:-1 tvg-id="interTV.ve" tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" tvg-country="VE" group-title="Other",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8

@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SaabTV.so@SD" tvg-name="Saab TV" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-country="SO" tvg-language="som" group-title="General",Saab TV
+https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+#EXTINF:-1 tvg-id="SNTVDaljir.so@SD" tvg-name="SNTV Daljir" tvg-logo="https://i.imgur.com/Re3ur88.png" tvg-country="SO" tvg-language="som" group-title="General",SNTV Daljir
+https://cd198.anystream.uk:9092/iqapp/s2tve/playlist.m3u8
+#EXTINF:-1 tvg-id="SomaliNationalTV.so@SD" tvg-name="Somali National TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d6/SNTV_REBRANDED_LOGO.png" tvg-country="SO" tvg-language="som" group-title="General",Somali National TV
+https://cd198.anystream.uk:9092/iqapp/s4ne/playlist.m3u8
+#EXTINF:-1 tvg-name="Hirshabelle TV" tvg-logo="https://www.lyngsat.com/logo/tv/hh/hirshabelle-tvjpg-so.png" tvg-country="SO" group-title="Other",Hirshabelle TV
+https://cd198.anystream.uk:9092/iqapp/h1rshbe1iptv/playlist.m3u8

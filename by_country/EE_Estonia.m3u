@@ -1,0 +1,43 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ETV.ee@SD" tvg-name="ETV [Geo-blocked]" tvg-logo="https://i.imgur.com/5URjPgG.png" tvg-country="EE" tvg-language="est" group-title="General",ETV [Geo-blocked]
+http://sb.err.ee/live/etv.m3u8
+#EXTINF:-1 tvg-id="Go3Sport1.ee@SD" tvg-name="Go3 Sport 1" tvg-logo="https://i.imgur.com/0eZa0qh.png" tvg-country="EE" tvg-language="est;lav;lit" group-title="Sports",Go3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+http://stream.mcquack.net/416/index.m3u8
+#EXTINF:-1 tvg-id="ETV2.ee@SD" tvg-name="ETV2 [Geo-blocked]" tvg-logo="https://i.imgur.com/fUjGHDa.png" tvg-country="EE" tvg-language="est" group-title="Kids",ETV2 [Geo-blocked]
+http://sb.err.ee/live/etv2.m3u8
+#EXTINF:-1 tvg-id="KidZoneMax.ee@SD" tvg-name="KidZone Max [Geo-blocked]" tvg-logo="https://i.imgur.com/qJSvxE2.png" tvg-country="EE" tvg-language="eng;est;lav;lit;rus" group-title="Kids",KidZone Max [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://kidzonemax.lt
+https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/560706/index.mpd
+#EXTINF:-1 tvg-id="ETVPlus.ee@SD" tvg-name="ETV+ [Geo-blocked]" tvg-logo="https://i.imgur.com/YAubPlU.png" tvg-country="EE" tvg-language="rus;est" group-title="Entertainment",ETV+ [Geo-blocked]
+http://sb.err.ee/live/etvpluss.m3u8
+#EXTINF:-1 tvg-id="OTV.ee@SD" tvg-name="OTV" tvg-logo="https://web02.antik.sk/assets/img/channels/5c4e6aadc3255df82fedf3221570cdb5.svg" tvg-country="EE" tvg-language="rus;ukr" group-title="Entertainment",OTV
+http://88.212.7.14/live/otv/playlist.m3u8
+#EXTINF:-1 tvg-id="LifeTV.ee@SD" tvg-name="Life TV Estonia" tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-country="EE" tvg-language="rus" group-title="Religious",Life TV Estonia
+https://lifetv.bitflip.ee/live/stream2.m3u8
+#EXTINF:-1 tvg-id="TBNBaltia.ee@SD" tvg-name="TBN Baltia" tvg-logo="https://i.imgur.com/rKBaK56.png" tvg-country="EE" tvg-language="rus" group-title="Religious",TBN Baltia
+http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
+#EXTINF:-1 tvg-id="BestofDanceTV.ee@SD" tvg-name="Best of Dance TV" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dt-logo-ARVwXaV7R0NW1kmXYBxN0OA78sD706.png" tvg-country="EE" tvg-language="eng" group-title="Music",Best of Dance TV
+https://m1b2.worldcast.tv/dancetelevisionone/dancetelevisionone.m3u8
+#EXTINF:-1 tvg-id="DanceTVAlgorhythm.ee@SD" tvg-name="DanceTV Algorhythm" tvg-country="EE" tvg-language="eng" group-title="Music",DanceTV Algorhythm
+https://m2b2.worldcast.tv:7443/dancetelevisionfour/dancetelevisionfour.m3u8
+#EXTINF:-1 tvg-id="DanceTVDeepHouseDistrict.ee@SD" tvg-name="DanceTV Deep House District" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/dhd-logo-GjMR8ITxgPd9PDBLDf0I87dajJTZnb.png" tvg-country="EE" tvg-language="eng" group-title="Music",DanceTV Deep House District
+https://m1b2.worldcast.tv/dancetelevisiontwo/dancetelevisiontwo.m3u8
+#EXTINF:-1 tvg-id="DanceTVHouseFloor.ee@SD" tvg-name="DanceTV House Floor" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/hf-logo-uDcW7mhXn7bEtZ18czXFyZDlhj8ayX.png" tvg-country="EE" tvg-language="eng" group-title="Music",DanceTV House Floor
+https://m2b2.worldcast.tv:7443/dancetelevisionfive/dancetelevisionfive.m3u8
+#EXTINF:-1 tvg-id="DanceTVTechnoWarehouse.ee@SD" tvg-name="DanceTV Techno Warehouse" tvg-logo="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/tw-logo-dqofMpknglzhuurr3HkwtzR7cqGZHj.png" tvg-country="EE" tvg-language="eng" group-title="Music",DanceTV Techno Warehouse
+https://m2b2.worldcast.tv:7443/dancetelevisionthree/dancetelevisionthree.m3u8
+#EXTINF:-1 tvg-id="VantageClassic.ee@HD" tvg-name="Vantage Classic" tvg-logo="https://vantagetv.ee/vantage_classic.png" tvg-country="EE" tvg-language="eng" group-title="Music",Vantage Classic
+https://hls.vantagetv.ee/vclassic_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageDance.ee@HD" tvg-name="Vantage Dance" tvg-logo="https://vantagetv.ee/vantage_dance.png" tvg-country="EE" tvg-language="eng" group-title="Music",Vantage Dance
+https://hls.vantagetv.ee/vdance_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@HD" tvg-name="Vantage Music [Geo-blocked]" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-country="EE" tvg-language="eng" group-title="Music",Vantage Music [Geo-blocked]
+https://hls.vantagetv.ee/vmusic_stream/main_stream.m3u8
+#EXTINF:-1 tvg-id="VantageMusic.ee@UK" tvg-name="Vantage Music UK [Geo-blocked]" tvg-logo="https://vantagetv.ee/vantage_music.png" tvg-country="EE" tvg-language="eng" group-title="Music",Vantage Music UK [Geo-blocked]
+https://hls.vantagetv.co.uk/vmusicuk_stream/index.m3u8
+#EXTINF:-1 tvg-id="VantageRock.ee@HD" tvg-name="Vantage Rock [Geo-blocked]" tvg-logo="https://vantagetv.ee/vantage_rock.png" tvg-country="EE" tvg-language="eng" group-title="Music",Vantage Rock [Geo-blocked]
+https://hls.vantagetv.ee/vrock_stream/index.m3u8
+#EXTINF:-1 tvg-id="LifeTVEurope.ee" tvg-name="Life TV Europe" tvg-logo="https://i.imgur.com/JhrTB82.png" tvg-country="EE" group-title="Other",Life TV Europe
+https://lifetv.bitflip.ee/live/stream1.m3u8
+#EXTINF:-1 tvg-id="Riigikogu.ee@SD" tvg-name="Riigikogu" tvg-logo="https://i.imgur.com/7uWaZLF.png" tvg-country="EE" tvg-language="est" group-title="Other",Riigikogu
+https://router.euddn.net/862366dd346d6b6392d5231546f3d179/smil:rk_live_1.smil/playlist.m3u8?c=8005

@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ERTCosmosCyprus.cy@HD" tvg-name="ERT Cosmos Cyprus" tvg-logo="https://www.ert.gr/wp-content/uploads/2026/05/ert-cosmos-cyprus.svg" tvg-country="CY" tvg-language="ell" group-title="General",ERT Cosmos Cyprus
+https://ert-live.ascdn.broadpeak.io/bpk-tv/ERTCosmos_Cyprus/default/index.m3u8
+#EXTINF:-1 tvg-id="Sat7Kids.cy@SD" tvg-name="Sat 7 Kids" tvg-logo="https://i.imgur.com/M0ik0i2.png" tvg-country="CY" tvg-language="ara" group-title="Kids",Sat 7 Kids
+https://svs.itworkscdn.net/sat7kidslive/sat7kids.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="ANT1Cyprus.cy@SD" tvg-name="ANT1 Cyprus" tvg-logo="https://i.imgur.com/2KAObBt.png" tvg-country="CY" tvg-language="ell" group-title="Entertainment",ANT1 Cyprus
+http://l2.cloudskep.com/ant1cm2/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MiddleEastTV.cy@SD" tvg-name="Middle East TV" tvg-logo="https://i.imgur.com/oKU5KeW.png" tvg-country="CY" tvg-language="eng" group-title="Religious",Middle East TV
+https://content.uplynk.com/channel/9d35b73c264946d5945db6cdff26336e.m3u8
+#EXTINF:-1 tvg-id="Sat7Pars.cy@SD" tvg-name="Sat7 Pars" tvg-logo="https://i.imgur.com/VTLQeul.png" tvg-country="CY" tvg-language="fas" group-title="Religious",Sat7 Pars
+https://sat7phls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="KibrisTV.cy@SD" tvg-name="Kibris TV" tvg-logo="https://i.imgur.com/5MJZPTo.png" tvg-country="CY" tvg-language="tur" group-title="Other",Kibris TV
+https://old.kuzeykibris.tv/m3u8/kktv.m3u8
+#EXTINF:-1 tvg-id="RIK1.cy@SD" tvg-name="RIK 1 [Geo-blocked]" tvg-logo="https://i.imgur.com/31eq4lS.png" tvg-country="CY" tvg-language="ell" group-title="Other",RIK 1 [Geo-blocked]
+https://l6.cloudskep.com/rikct/rik1/playlist.m3u8
+#EXTINF:-1 tvg-id="RIK2.cy@SD" tvg-name="RIK 2 [Geo-blocked]" tvg-logo="https://i.imgur.com/EZUDmtI.png" tvg-country="CY" tvg-language="ell" group-title="Other",RIK 2 [Geo-blocked]
+https://l6.cloudskep.com/rikct/rik2/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKHD.cy@SD" tvg-name="RIK HD [Geo-blocked]" tvg-logo="https://i.imgur.com/xQnHaPy.png" tvg-country="CY" tvg-language="ell" group-title="Other",RIK HD [Geo-blocked]
+https://l6.cloudskep.com/rikct/rikhd/playlist.m3u8
+#EXTINF:-1 tvg-id="RIKSat.cy@SD" tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png" tvg-country="CY" tvg-language="ell" group-title="Other",RIK Sat
+https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Sat7Arabic.cy@SD" tvg-name="Sat 7 Arabic" tvg-logo="https://i.imgur.com/BzDjQeQ.png" tvg-country="CY" tvg-language="ara" group-title="Other",Sat 7 Arabic
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="Sat7Turk.cy@SD" tvg-name="Sat7 Türk" tvg-logo="https://i.imgur.com/cKQIK4i.png" tvg-country="CY" tvg-language="tur" group-title="Other",Sat7 Türk
+https://live.artidijitalmedya.com/artidijital_sat7turk/sat7turk/playlist.m3u8
+#EXTINF:-1 tvg-id="SigmaTV.cy@SD" tvg-name="Sigma TV [Not 24/7]" tvg-logo="https://i.imgur.com/DXKx102.png" tvg-country="CY" tvg-language="ell" group-title="Other",Sigma TV [Not 24/7]
+https://sl2.sigmatv.com/hls/live.m3u8
