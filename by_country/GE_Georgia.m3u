@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ApsuaTV.ge@SD" tvg-name="Apsua TV" tvg-logo="https://i.imgur.com/TJowroY.png" tvg-country="GE" tvg-language="rus;abk" group-title="General",Apsua TV
+https://gcmx3v3owcj.a.trbcdn.net/livemaster/ba7pu_fgej0zelpw.smil/playlist.m3u8?blstid=null
+#EXTINF:-1 tvg-id="1TV.ge@SD" tvg-name="First Channel (1TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Pirveli_Arkhi_Logo_2022.svg/500px-Pirveli_Arkhi_Logo_2022.svg.png" tvg-country="GE" tvg-language="kat" group-title="General",First Channel (1TV)
+https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
+#EXTINF:-1 tvg-id="2TV.ge@SD" tvg-name="First Channel /Education/ (2TV)" tvg-logo="https://upload.wikimedia.org/wikipedia/ka/c/c9/2_Tv_Logo.jpg" tvg-country="GE" tvg-language="kat" group-title="General",First Channel /Education/ (2TV)
+https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
+#EXTINF:-1 tvg-id="ImediTV.ge@SD" tvg-name="Imedi TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/Imlogo_2020.png" tvg-country="GE" tvg-language="kat" group-title="General",Imedi TV
+https://tv.cdn.xsg.ge/imedihd/index.m3u8
+#EXTINF:-1 tvg-id="TVPirveli.ge@SD" tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" tvg-country="GE" tvg-language="kat" group-title="General",TV Pirveli
+http://nue01-edge01.itdc.ge/pirvelitv/mpegts
+#EXTINF:-1 tvg-id="Formula.ge@SD" tvg-name="Formula" tvg-logo="https://i.imgur.com/fsqBn8G.png" tvg-country="GE" tvg-language="kat" group-title="News",Formula
+https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8
+#EXTINF:-1 tvg-id="PalitraNews.ge@SD" tvg-name="Palitra News [Not 24/7]" tvg-logo="https://i.imgur.com/BW95PMF.png" tvg-country="GE" tvg-language="kat" group-title="News",Palitra News [Not 24/7]
+https://live.palitranews.ge/hls/palitratv/index.m3u8
+#EXTINF:-1 tvg-id="Ertsulovneba.ge@SD" tvg-name="Ertsulovneba" tvg-logo="https://i.imgur.com/KuuODMM.png" tvg-country="GE" tvg-language="kat" group-title="Religious",Ertsulovneba
+https://stream.sstv.ge/live/sstv/playlist.m3u8
+#EXTINF:-1 tvg-id="BMGTV.ge@SD" tvg-name="BMG TV" tvg-logo="https://i.imgur.com/vGLkTPA.png" tvg-country="GE" tvg-language="kat" group-title="Business",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+#EXTINF:-1 tvg-id="EuroNewsGeorgia.ge" tvg-name="Euronews Georgia [Geo-blocked]" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-country="GE" group-title="Other",Euronews Georgia [Geo-blocked]
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+#EXTINF:-1 tvg-id="Rustavi2.ge@SD" tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" tvg-country="GE" tvg-language="kat" group-title="Other",Rustavi 2
+http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts

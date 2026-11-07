@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="GMSTV.sn@SD" tvg-name="GMS TV" tvg-logo="https://i.imgur.com/Ue02CIH.png" tvg-country="SN" tvg-language="fra" group-title="General",GMS TV
+https://acasmedia6.acangroup.org/gmstv/gmstv_output/playlist.m3u8
+#EXTINF:-1 tvg-id="LougaTV.sn@SD" tvg-name="Louga TV" tvg-logo="https://i.ibb.co/xXZ5kFy/unnamed.jpg" tvg-country="SN" tvg-language="fra" group-title="General",Louga TV
+https://stream.sen-gt.com/Mbacke/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="SenewebTV.sn@SD" tvg-name="Seneweb TV [Geo-blocked]" tvg-logo="https://i.imgur.com/i9P2qjs.png" tvg-country="SN" tvg-language="fra" group-title="General",Seneweb TV [Geo-blocked]
+https://vdo2.pro-fhi.net:3297/stream/play.m3u8
+#EXTINF:-1 tvg-id="SenJeunesTV.sn@SD" tvg-name="SenJeunes TV [Not 24/7]" tvg-logo="https://i.imgur.com/MeCSPsI.jpg" tvg-country="SN" tvg-language="fra" group-title="General",SenJeunes TV [Not 24/7]
+https://stream.sen-gt.com/senjeunestv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iReligion.sn@SD" tvg-name="A2i Religion [Not 24/7]" tvg-logo="https://i.imgur.com/54WrwyN.jpg" tvg-country="SN" tvg-language="wol;fra" group-title="Religious",A2i Religion [Not 24/7]
+https://stream.sen-gt.com/A2iReligion/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="A2iMusic.sn@SD" tvg-name="A2i Music [Not 24/7]" tvg-logo="https://i.imgur.com/Fykhzxh.jpg" tvg-country="SN" tvg-language="wol;fra" group-title="Music",A2i Music [Not 24/7]
+https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="Diaspora24.sn@SD" tvg-name="Diaspora 24 [Geo-blocked]" tvg-logo="https://i.imgur.com/4devfx1.png" tvg-country="SN" tvg-language="fra" group-title="Other",Diaspora 24 [Geo-blocked]
+https://vdo3.pro-fhi.net:3218/stream/play.m3u8

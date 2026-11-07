@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NET.mt@SD" tvg-name="NET [Geo-blocked]" tvg-logo="https://i.imgur.com/K4Uve1n.png" tvg-country="MT" tvg-language="mlt" group-title="General",NET [Geo-blocked]
+http://80.79.6.221:25461/smash/public/22
+#EXTINF:-1 tvg-id="One.mt@SD" tvg-name="One" tvg-logo="https://i.imgur.com/UPlfzFx.png" tvg-country="MT" tvg-language="mlt" group-title="General",One
+https://2-fss-1.streamhoster.com/pl_148/201830-1293592-1/playlist.m3u8
+#EXTINF:-1 tvg-id="SmashTV.mt@SD" tvg-name="Smash TV" tvg-logo="https://i.imgur.com/ZKF0fG3.png" tvg-country="MT" tvg-language="mlt;eng" group-title="General",Smash TV
+https://stream.smashmalta.com/live/webplayer/livestream/1.m3u8
+#EXTINF:-1 tvg-id="TVM.mt@SD" tvg-name="TVM [Geo-blocked]" tvg-logo="https://i.imgur.com/V0iMsED.png" tvg-country="MT" tvg-language="mlt;eng" group-title="General",TVM [Geo-blocked]
+http://80.79.6.221:25461/smash/public/19
+#EXTINF:-1 tvg-id="TVMnewsPlus.mt@SD" tvg-name="TVM News+ [Geo-blocked]" tvg-logo="https://i.imgur.com/CFcst4g.png" tvg-country="MT" tvg-language="mlt" group-title="News",TVM News+ [Geo-blocked]
+http://80.79.6.221:25461/smash/public/20
+#EXTINF:-1 tvg-id="MedTV.mt@SD" tvg-name="Med.TV" tvg-logo="https://i.imgur.com/ejGeXPD.png" tvg-country="MT" tvg-language="eng" group-title="Culture",Med.TV
+https://med-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-hls-aes128-medtv-1-restreaming/bitok/eyJzdGlkIjoiMGUzYjU2OWQtYTY3NC00ZDQxLThmZmMtNjA2NWU5YzMwNTViIiwibWt0IjoiaXQiLCJjaCI6IjUiLCJwdGYiOjV9/hls/main.m3u8
+#EXTINF:-1 tvg-id="ParliamentofMalta.mt@SD" tvg-name="Parliament TV [Geo-blocked]" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/53/Logo_of_the_Parliament_of_Malta.png" tvg-country="MT" tvg-language="mlt" group-title="Legislative",Parliament TV [Geo-blocked]
+http://80.79.6.221:25461/smash/public/23

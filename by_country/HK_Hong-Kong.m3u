@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NewsWorld.hk@FAST" tvg-name="NewsWorld" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2e3bf0d9-3ca6-4f65-b1d4-f180ef725d96/NewsWorld_logo_dark_-_Angela_Chan.png" tvg-country="HK" tvg-language="eng" group-title="News",NewsWorld
+https://amg01076-lightning-amg01076c5-rakuten-us-1788.playouts.now.amagi.tv/playlist/amg01076-lightning-newsworld-rakutenus/playlist.m3u8
+#EXTINF:-1 tvg-id="RTHKTV35.hk@HD" tvg-name="RTHK TV 35 (港台電視35) [Geo-blocked]" tvg-logo="https://i.imgur.com/FQmNKDS.png" tvg-country="HK" tvg-language="eng" group-title="News",RTHK TV 35 (港台電視35) [Geo-blocked]
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+#EXTINF:-1 tvg-id="KIX.hk@SD" tvg-name="KIX" tvg-logo="https://i.imgur.com/zWcUAdb.png" tvg-country="HK" tvg-language="eng;zho;msa;ind" group-title="Entertainment",KIX
+https://freem3u.xyz/api/live/play.m3u8?vid=9901
+#EXTINF:-1 tvg-id="PetClubTV.hk@SD" tvg-name="Pet Club TV" tvg-logo="https://i.imgur.com/ykPNNwQ.png" tvg-country="HK" tvg-language="yue" group-title="Entertainment",Pet Club TV
+https://petclub-samsungaus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="HKIBC.hk" tvg-name="HOY TV [Geo-blocked]" tvg-logo="https://i.imgur.com/NfVZPTT.png" tvg-country="HK" group-title="Other",HOY TV [Geo-blocked]
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+#EXTINF:-1 tvg-id="RTHKTV32.hk@SD" tvg-name="RTHK TV 32 (港台電視32) [Geo-blocked]" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-country="HK" tvg-language="zho;eng" group-title="Other",RTHK TV 32 (港台電視32) [Geo-blocked]
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV33.hk@SD" tvg-name="RTHK TV 33 (港台電視33) [Geo-blocked]" tvg-logo="https://i.imgur.com/2MProun.png" tvg-country="HK" tvg-language="zho;eng" group-title="Other",RTHK TV 33 (港台電視33) [Geo-blocked]
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 tvg-id="RTHKTV34.hk@SD" tvg-name="RTHK TV 34 (港台電視34) [Geo-blocked]" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" tvg-country="HK" tvg-language="eng" group-title="Other",RTHK TV 34 (港台電視34) [Geo-blocked]
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 tvg-id="ViuTV.hk@SD" tvg-name="ViuTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ViuTV_logo.svg/960px-ViuTV_logo.svg.png" tvg-country="HK" tvg-language="zho;yue" group-title="Other",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
