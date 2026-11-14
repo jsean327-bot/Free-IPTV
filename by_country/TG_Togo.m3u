@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TelevisionEspoir47.tg@SD" tvg-name="Television Espoir 47" tvg-logo="https://i.imgur.com/utBh0xL.png" tvg-country="TG" tvg-language="fra" group-title="General",Television Espoir 47
+https://cdn140m.panaccess.com/HLS/Espoir47/index.m3u8
+#EXTINF:-1 tvg-id="NWInfo2.tg@SD" tvg-name="NW Info 2 EN" tvg-logo="https://i.imgur.com/0W4GqFD.png" tvg-country="TG" tvg-language="eng" group-title="News",NW Info 2 EN
+https://hls.newworldtv.com/nw-info-2/video/live.m3u8
+#EXTINF:-1 tvg-id="NWInfo.tg@SD" tvg-name="NW Info FR" tvg-logo="https://i.imgur.com/UDEY91v.png" tvg-country="TG" tvg-language="fra" group-title="News",NW Info FR
+https://hls.newworldtv.com/nw-info/video/live.m3u8
+#EXTINF:-1 tvg-id="ChandelTV.tg@SD" tvg-name="Chandel TV" tvg-logo="https://i.imgur.com/jQO7dVE.png" tvg-country="TG" tvg-language="fra" group-title="Entertainment",Chandel TV
+https://kali.vdopanel.com:3660/live/vj6jlam1rlive.m3u8
+#EXTINF:-1 tvg-id="NWMagazine.tg@SD" tvg-name="NW Magazine" tvg-logo="https://i.imgur.com/RZNJZYN.png" tvg-country="TG" tvg-language="fra" group-title="Entertainment",NW Magazine
+https://hls.newworldtv.com/nw-magazine/video/live.m3u8
+#EXTINF:-1 tvg-id="RTJVA.tg@SD" tvg-name="RT JVA [Not 24/7]" tvg-logo="https://i.imgur.com/Ja3HVLB.jpg" tvg-country="TG" tvg-language="fra" group-title="Religious",RT JVA [Not 24/7]
+https://cdn140m.panaccess.com/HLS/RTVJA/index.m3u8
+#EXTINF:-1 tvg-id="NWEconomie.tg@SD" tvg-name="NW Economie" tvg-logo="https://i.imgur.com/OmlFQa8.png" tvg-country="TG" tvg-language="fra" group-title="Business",NW Economie
+https://hls.newworldtv.com/nw-economie/video/live.m3u8

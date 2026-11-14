@@ -1,0 +1,27 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TropojaTelevizion.al@SD" tvg-name="Tropoja" tvg-logo="https://i.imgur.com/D3hNOVS.png" tvg-country="AL" tvg-language="sqi" group-title="General",Tropoja
+https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TVApollon.al@SD" tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-country="AL" tvg-language="sqi" group-title="General",TV Apollon
+https://live.apollon.tv/Apollon-Web/video.m3u8?token=tnt9u76reF0d1
+#EXTINF:-1 tvg-id="TVJohaniter.al@SD" tvg-name="TV Johaniter" tvg-logo="https://i.imgur.com/Zo9lJgP.png" tvg-country="AL" tvg-language="sqi" group-title="General",TV Johaniter
+https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+#EXTINF:-1 tvg-id="VizionPlus.al@SD" tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-country="AL" tvg-language="sqi" group-title="General",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al@SD" tvg-name="Zjarr TV" tvg-logo="https://i.imgur.com/hNuWZWe.png" tvg-country="AL" tvg-language="sqi" group-title="General",Zjarr TV
+https://zjarr.future.al/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="CNA.al@SD" tvg-name="CNA" tvg-logo="https://i.imgur.com/X3ukD5t.png" tvg-country="AL" tvg-language="sqi" group-title="News",CNA
+https://live1.mediadesk.al/cnatvlive.m3u8
+#EXTINF:-1 tvg-id="News24.al@SD" tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/960px-News_24_%28Albania%29.svg.png" tvg-country="AL" tvg-language="sqi" group-title="News",News 24
+https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="ntv.al@SD" tvg-name="ntv" tvg-logo="https://i.imgur.com/gtZLzxq.png" tvg-country="AL" tvg-language="sqi" group-title="News",ntv
+https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+#EXTINF:-1 tvg-id="OraNews.al@SD" tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-country="AL" tvg-language="sqi" group-title="News",Ora News
+https://live1.mediadesk.al/oranews.m3u8
+#EXTINF:-1 tvg-id="Syri.al@SD" tvg-name="Syri" tvg-logo="https://i.imgur.com/4zVyj1M.png" tvg-country="AL" tvg-language="sqi" group-title="News",Syri
+https://stream.syritv.al/live/syritv/playlist.m3u8
+#EXTINF:-1 tvg-id="TV7Albania.al@SD" tvg-name="TV 7 Albania" tvg-logo="https://i.imgur.com/k9WqPLZ.png" tvg-country="AL" tvg-language="sqi" group-title="Religious",TV 7 Albania
+https://rpn3.bozztv.com/albaniatv/Med7-TV7Tirana/index.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@SD" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-country="AL" tvg-language="sqi" group-title="Music",AlbKanale Music TV
+https://albportal.net/albkanalemusic.m3u8
+#EXTINF:-1 tvg-id="AlbKanaleMusicTV.al@HD" tvg-name="AlbKanale Music TV" tvg-logo="https://i.imgur.com/JdKxscs.png" tvg-country="AL" tvg-language="sqi" group-title="Music",AlbKanale Music TV
+https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8

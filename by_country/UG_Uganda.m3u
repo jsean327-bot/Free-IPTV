@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBSTV.ug@SD" tvg-name="BBS TV" tvg-logo="https://i.imgur.com/Hub1AXv.png" tvg-country="UG" tvg-language="lug" group-title="General",BBS TV
+https://bbstv.ug/hls/ch01/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV1.ug@SD" tvg-name="Bukedde TV 1" tvg-logo="https://i.imgur.com/HFq5QlJ.png" tvg-country="UG" tvg-language="lug" group-title="General",Bukedde TV 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="BukeddeTV2.ug@SD" tvg-name="Bukedde TV 2 [Not 24/7]" tvg-logo="https://i.imgur.com/ukwPZeY.png" tvg-country="UG" tvg-language="eng" group-title="General",Bukedde TV 2 [Not 24/7]
+https://stream.hydeinnovations.com/bukedde2flussonic/index.m3u8
+#EXTINF:-1 tvg-id="KRCTV.ug@SD" tvg-name="KRC TV" tvg-logo="https://i.imgur.com/8c9Uqks.jpeg" tvg-country="UG" tvg-language="eng;lug" group-title="General",KRC TV
+https://channels.ad-ug.com/live/ch03/index.m3u8
+#EXTINF:-1 tvg-id="TayariWestTV.ug@SD" tvg-name="Tayari West TV" tvg-logo="https://i.imgur.com/tbnOtUZ.jpeg" tvg-country="UG" tvg-language="lug;cgg" group-title="General",Tayari West TV
+https://stream.hydeinnovations.com/tarari-west/index.m3u8
+#EXTINF:-1 tvg-id="TVWest.ug@SD" tvg-name="TV West" tvg-logo="https://i.imgur.com/EiJzkIz.png" tvg-country="UG" tvg-language="nyn;cgg;nyo;ttj" group-title="General",TV West
+https://stream.hydeinnovations.com/tvwest-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="WanLuoTV.ug@SD" tvg-name="Wan Luo TV" tvg-logo="https://i.imgur.com/4PUUp3E.png" tvg-country="UG" tvg-language="ach;laj;adh;alz;kdi;luo" group-title="General",Wan Luo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
+#EXTINF:-1 tvg-id="FORTTV.ug@SD" tvg-name="FORT TV" tvg-logo="https://i.ibb.co/4KN5zW9/fort-tv-logo-GENE.png" tvg-country="UG" tvg-language="eng" group-title="Entertainment",FORT TV
+https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
+#EXTINF:-1 tvg-id="AlphaDigital.ug@SD" tvg-name="Alpha Digital" tvg-logo="https://i.imgur.com/sLt242H.png" tvg-country="UG" tvg-language="eng" group-title="Religious",Alpha Digital
+https://streamfi-alphatvdgtl1.zettawiseroutes.com:8181/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ArkTV.ug@SD" tvg-name="Ark TV [Not 24/7]" tvg-logo="https://i.imgur.com/yCHNZXD.png" tvg-country="UG" tvg-language="eng" group-title="Religious",Ark TV [Not 24/7]
+https://stream.hydeinnovations.com/arktv-international/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="DreamTV.ug@SD" tvg-name="Dream TV" tvg-logo="https://i.imgur.com/XRUDhqQ.png" tvg-country="UG" tvg-language="eng;lug" group-title="Religious",Dream TV
+https://streamfi-dreamtv1.zettawiseroutes.com:8181/hls/stream.m3u8

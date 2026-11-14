@@ -1,0 +1,19 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BayonTV.kh@SD" tvg-name="Bayon TV" tvg-logo="https://i.imgur.com/Gry2KEN.jpg" tvg-country="KH" tvg-language="khm" group-title="General",Bayon TV
+https://live-evg2.tv360.metfone.com.kh/livebayontv/bayontvhd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="TVK.kh@SD" tvg-name="TVK" tvg-logo="https://i.imgur.com/5hPxjcl.png" tvg-country="KH" tvg-language="khm" group-title="General",TVK
+https://live.kh.malimarcdn.com/live/tvk.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EACNewsTV.kh@SD" tvg-name="EAC News TV" tvg-logo="https://i.imgur.com/EuYhS9Z.png" tvg-country="KH" tvg-language="eng" group-title="News",EAC News TV
+https://live.eac-news.com/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="FreshNews.kh@SD" tvg-name="Fresh News" tvg-logo="https://i.imgur.com/bV6sawt.png" tvg-country="KH" tvg-language="khm" group-title="News",Fresh News
+http://streaming-android.freshnewsasia.tv:1935/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="SangkemTV.kh@SD" tvg-name="Sangkem TV" tvg-logo="https://i.imgur.com/728fAcC.png" tvg-country="KH" tvg-language="khm" group-title="Religious",Sangkem TV
+https://live.sangkemtv.com/memfs/sangkem.m3u8
+#EXTINF:-1 tvg-id="TVK2.kh@SD" tvg-name="TVK 2" tvg-logo="https://i.imgur.com/L36ptO2.png" tvg-country="KH" tvg-language="khm" group-title="Education",TVK 2
+https://live.kh.malimarcdn.com/live/tvk2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="WikiTV.kh@SD" tvg-name="WIKI TV" tvg-logo="https://i.imgur.com/rnV0Ui1.png" tvg-country="KH" tvg-language="khm" group-title="Education",WIKI TV
+https://stream.wikitv.asia/live/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="ARDBTV.kh@SD" tvg-name="ARDB TV [Not 24/7]" tvg-logo="https://i.imgur.com/yOncWla.png" tvg-country="KH" tvg-language="khm" group-title="Outdoor",ARDB TV [Not 24/7]
+https://ardbtv.ardb.com.kh:8443/tv-live/tv-online.m3u8
+#EXTINF:-1 tvg-id="SEATV.kh@SD" tvg-name="SEATV" tvg-logo="https://i.imgur.com/oZPorvg.png" tvg-country="KH" tvg-language="khm" group-title="Other",SEATV
+https://seatv.netlinkbroadcaster.com/hls/test.m3u8
