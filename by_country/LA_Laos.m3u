@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ISTV.la@SD" tvg-name="ISTV" tvg-logo="https://i.imgur.com/TGAKFcV.jpg" tvg-country="LA" tvg-language="vie" group-title="General",ISTV
+https://livefta.malimarcdn.com/ftaedge00/ichannel.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="OhMuangLaoTV.la@SD" tvg-name="Oh Muang Lao TV" tvg-logo="https://i.imgur.com/SdB3Vyr.jpg" tvg-country="LA" tvg-language="vie" group-title="General",Oh Muang Lao TV
+https://livefta.malimarcdn.com/ftaedge00/ohmuanglao.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="BrianTV.la@SD" tvg-name="Brian TV [Not 24/7]" tvg-logo="https://i.imgur.com/zG1WNgU.jpg" tvg-country="LA" tvg-language="vie" group-title="News",Brian TV [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="NingTV.la@SD" tvg-name="Ning TV" tvg-logo="https://i.imgur.com/ANnEPnK.png" tvg-country="LA" tvg-language="lao" group-title="Entertainment",Ning TV
+https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="VatiLao.la@SD" tvg-name="Vati Lao TV" tvg-logo="https://i.imgur.com/NwxXABV.png" tvg-country="LA" tvg-language="lao" group-title="Entertainment",Vati Lao TV
+https://livefta.malimarcdn.com/ftaedge00/vatilaotv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LookThoongTV.la@SD" tvg-name="Look Thoong TV [Not 24/7]" tvg-logo="https://i.imgur.com/eT7iE34.png" tvg-country="LA" tvg-language="lao" group-title="Music",Look Thoong TV [Not 24/7]
+https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LSTV.la@SD" tvg-name="LS TV" tvg-logo="https://i.imgur.com/fs3dQ6J.png" tvg-country="LA" tvg-language="lao" group-title="Shop",LS TV
+https://livefta.malimarcdn.com/ftaedge00/laostv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="LaoNetTV.la@SD" tvg-name="Lao Net TV" tvg-logo="https://i.imgur.com/ohbRT05.png" tvg-country="LA" tvg-language="lao" group-title="Other",Lao Net TV
+https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8

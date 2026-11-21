@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="HalaTV.il@SD" tvg-name="Hala TV [Not 24/7]" tvg-logo="https://i.imgur.com/028M4Ew.png" tvg-country="IL" tvg-language="ara" group-title="General",Hala TV [Not 24/7]
+https://stream.panet.com/edge/halaTV/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaIstanbul.il@SD" tvg-name="Viva Istanbul" tvg-logo="https://cdn.epg.one/img2/88006.png" tvg-country="IL" tvg-language="heb" group-title="General",Viva Istanbul
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Kan11.il@SD" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png" tvg-country="IL" tvg-language="heb" group-title="General",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel13.il@SD" tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/500px-Reshet13Logo2022.svg.png" tvg-country="IL" tvg-language="heb" group-title="General",ערוץ 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1 tvg-id="Now14.il@SD" tvg-name="ערוץ 14" tvg-logo="https://i.imgur.com/Iq2Kb69.png" tvg-country="IL" tvg-language="heb" group-title="General",ערוץ 14
+https://r.il.cdn-redge.media/livehls/oil/ch14/live/ch14/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel9.il@SD" tvg-name="Channel 9" tvg-logo="https://i.imgur.com/pttM3KQ.png" tvg-country="IL" tvg-language="rus;heb" group-title="News",Channel 9
+https://contact.gostreaming.tv/Con-11/index.m3u8
+#EXTINF:-1 tvg-id="i24NEWSHebrew.il@SD" tvg-name="I24 News Hebrew" tvg-logo="https://www.i24news.tv/images/favicon.png" tvg-country="IL" tvg-language="heb" group-title="News",I24 News Hebrew
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="i24NEWSArabic.il@SD" tvg-name="i24NEWS Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="IL" tvg-language="ara" group-title="News",i24NEWS Arabic
+https://hlspackager.akamaized.net/live/DB/i24_ARABIC/HLS/i24_ARABIC.m3u8
+#EXTINF:-1 tvg-id="i24NEWSEnglishWorld.il@SD" tvg-name="i24NEWS English World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="IL" tvg-language="eng" group-title="News",i24NEWS English World
+https://hlspackager.akamaized.net/live/DB/i24_ENGLISH/HLS/i24_ENGLISH.m3u8
+#EXTINF:-1 tvg-id="i24NEWSFrench.il@SD" tvg-name="i24NEWS French" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-country="IL" tvg-language="fra" group-title="News",i24NEWS French
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+#EXTINF:-1 tvg-id="Makan33.il@SD" tvg-name="مكان 33" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/56/MeKan_33_logo_2017.png" tvg-country="IL" tvg-language="ara" group-title="News",مكان 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Gold.il@SD" tvg-name="5Gold" tvg-logo="https://i.imgur.com/zFLRfXh.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Gold
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_gold/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Live.il@SD" tvg-name="5Live" tvg-logo="https://i.imgur.com/0yr3yvd.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Live
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_live/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Max.il@SD" tvg-name="5Max" tvg-logo="https://i.postimg.cc/XNmh01pH/5sport-max-il.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Max
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_max/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Plus.il@SD" tvg-name="5Plus" tvg-logo="https://i.imgur.com/L3RA9Lv.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Plus
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_plus/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport.il@SD" tvg-name="5Sport" tvg-logo="https://i.imgur.com/dRVsB89.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Sport
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Sport4K.il@SD" tvg-name="5Sport 4K" tvg-logo="https://i.imgur.com/Msfhpqd.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Sport 4K
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_4k_avc/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="5Stars.il@SD" tvg-name="5Stars" tvg-logo="https://i.imgur.com/IQtAKIa.png" tvg-country="IL" tvg-language="heb" group-title="Sports",5Stars
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/sport_5_starz/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="One2.il@SD" tvg-name="One 2" tvg-logo="https://i.imgur.com/JQLhYEs.png" tvg-country="IL" tvg-language="heb" group-title="Sports",One 2
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_2/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="ArutzHaYeladim.il@SD" tvg-name="Arutz HaYeladim" tvg-logo="https://i.imgur.com/n1KusFW.png" tvg-country="IL" tvg-language="heb" group-title="Kids",Arutz HaYeladim
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/kids_channel/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Junior.il@SD" tvg-name="Junior" tvg-logo="https://i.imgur.com/w8fYTnw.png" tvg-country="IL" tvg-language="heb" group-title="Kids",Junior
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/junior/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="VivaTelenovelas.il@SD" tvg-name="Viva Telenovelas" tvg-logo="https://static.g-cdn.app/streams/viva-il.png" tvg-country="IL" tvg-language="heb" group-title="Series",Viva Telenovelas
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/viva/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="RealityChannel.il@SD" tvg-name="Reality Channel" tvg-logo="https://static.g-cdn.app/streams/yes-reality-channel-il-hd.png" tvg-country="IL" tvg-language="heb" group-title="Entertainment",Reality Channel
+https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index_1.m3u8
+#EXTINF:-1 tvg-id="VacationChannel.il@SD" tvg-name="Vacation Channel" tvg-logo="https://static.g-cdn.app/streams/vacation-channel-il-hd.png" tvg-country="IL" tvg-language="heb" group-title="Entertainment",Vacation Channel
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index_2.m3u8
+#EXTINF:-1 tvg-id="Hidabroot.il@SD" tvg-name="Hidabroot" tvg-logo="https://i.imgur.com/CTH4Hu2.png" tvg-country="IL" tvg-language="heb" group-title="Religious",Hidabroot
+https://cdn.cybercdn.live/HidabrootIL/Live97/playlist.m3u8
+#EXTINF:-1 tvg-id="KabbalahforthePeopleIsrael.il@SD" tvg-name="Kabbalah for the People (Israel) [Not 24/7]" tvg-logo="https://i.imgur.com/VxAHOgr.png" tvg-country="IL" tvg-language="heb" group-title="Religious",Kabbalah for the People (Israel) [Not 24/7]
+https://edge3.uk.kab.tv/live/tv66-heb-high/playlist.m3u8
+#EXTINF:-1 tvg-id="ShelanuTV.il@SD" tvg-name="Shelanu TV" tvg-logo="https://i.imgur.com/UVz2Ojq.png" tvg-country="IL" tvg-language="heb" group-title="Religious",Shelanu TV
+https://1247634592.rsc.cdn77.org/1247634592/playlist.m3u8
+#EXTINF:-1 tvg-id="MusicIL.il@SD" tvg-name="Music IL" tvg-logo="https://i.imgur.com/tTVOc31.png" tvg-country="IL" tvg-language="heb" group-title="Music",Music IL
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/music_il/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel16.il@SD" tvg-name="Channel 16" tvg-logo="https://ch16israel.vod.immergo.tv/ch16israel/uploaded/bfbd4781-67a7-437e-8f7e-898a5cbc4ab4.png" tvg-country="IL" tvg-language="heb" group-title="Other",Channel 16
+https://ch16israel-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 tvg-id="ComedyChannel.il@SD" tvg-name="Comedy Channel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/5031/entry_id/fc0d8109a18a4db3b585f154d32bd5b1/version/93/width/288/height/153/" tvg-country="IL" tvg-language="heb" group-title="Other",Comedy Channel
+https://d15ds134q59udk.cloudfront.net/out/v1/fbba879221d045598540ee783b140fe2/index.m3u8
+#EXTINF:-1 tvg-id="EconomyChannel.il@SD" tvg-name="Economy Channel" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logotv10-1.png" tvg-country="IL" tvg-language="heb" group-title="Other",Economy Channel
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="Foody.il@SD" tvg-name="Foody" tvg-logo="https://images.open-epg.com/18748363.png" tvg-country="IL" tvg-language="heb" group-title="Other",Foody
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/foody/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="TheIsraeliNetwork.il@SD" tvg-name="The Israeli Network" tvg-logo="https://i.imgur.com/wOsArb9.png" tvg-country="IL" tvg-language="heb" group-title="Other",The Israeli Network
+https://r.eu.cdn-redge.media/livehls/oeu/mt/live/the_israeli_network/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="OneDoco.il@SD" tvg-name="One Doco" tvg-logo="https://images.open-epg.com/18748370.png" tvg-country="IL" tvg-language="heb" group-title="Other",One Doco
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_doco/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-id="OneEdge.il@SD" tvg-name="One Edge" tvg-logo="https://images.open-epg.com/x1761.png" tvg-country="IL" tvg-language="heb" group-title="Other",One Edge
+https://r.il.cdn-redge.media/livehls/oil/freetv/live/one_edge/live.livx/playlist.m3u8

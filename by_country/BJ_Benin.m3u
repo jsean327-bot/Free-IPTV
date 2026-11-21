@@ -1,0 +1,14 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DigitalChannel.bj@SD" tvg-name="Digital Channel" tvg-logo="https://digitalchannel.bj/wp-content/uploads/2025/03/cropped-logo-192x192.png" tvg-country="BJ" tvg-language="fra" group-title="General",Digital Channel
+https://stream.digitalchannel.bj/live/ds_64de185c18c9d786a760f01e0e592348.m3u8
+#EXTINF:-1 tvg-id="EdenTV.bj@SD" tvg-name="Eden TV [Not 24/7]" tvg-logo="https://i.imgur.com/4ClnG0x.png" tvg-country="BJ" tvg-language="fra;ayb;fon" group-title="General",Eden TV [Not 24/7]
+https://rtmp.edentv.bj/hls/stream.m3u8
+#EXTINF:-1 tvg-id="ORTBTV.bj@HD" tvg-name="ORTB TV" tvg-logo="https://i.imgur.com/o6zAR88.png" tvg-country="BJ" group-title="General",ORTB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36
+https://strhls.streamakaci.tv/ortb/ortb1-multi/playlist.m3u8
+#EXTINF:-1 tvg-id="TVCBenin.bj@SD" tvg-name="TVC Bénin" tvg-logo="https://i.imgur.com/oUnEYl5.png" tvg-country="BJ" tvg-language="fra" group-title="General",TVC Bénin
+https://live.tvcbenin.com/direct/729c37a1d3319ee21991227b1f84c687.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="BeninTVJunior.bj@SD" tvg-name="Benin TV Junior" tvg-logo="https://i.imgur.com/bWxjtuJ.png" tvg-country="BJ" tvg-language="fra" group-title="Kids",Benin TV Junior
+https://srtblive.streamakaci.tv/ortb/ortb2-multi/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="LeNouveauManagerTV.bj@SD" tvg-name="Le Nouveau Manager TV" tvg-logo="https://i.imgur.com/pEoOtEf.jpeg" tvg-country="BJ" tvg-language="fra" group-title="Business",Le Nouveau Manager TV
+https://lnmlive.com/live/lnmtv.m3u8

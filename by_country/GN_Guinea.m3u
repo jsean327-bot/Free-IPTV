@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KalacTV.gn@SD" tvg-name="Kalac TV" tvg-logo="https://i.imgur.com/FgKJiHZ.png" tvg-country="GN" tvg-language="fra" group-title="General",Kalac TV
+https://edge13.vedge.infomaniak.com/livecast/ik:kalactv/chunklist_w280736538.m3u8

@@ -1,0 +1,35 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlMasriyah.eg@SD" tvg-name="Al Masriyah" tvg-logo="https://i.ibb.co/Kx7wmXCQ/almasriya.png" tvg-country="EG" tvg-language="ara" group-title="General",Al Masriyah
+http://185.9.2.18/chid_247/index.m3u8
+#EXTINF:-1 tvg-id="AlhayatTV.eg@SD" tvg-name="Alhayat TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Al-Hayat_Media_Center_Logo_%28variant_2%29.svg" tvg-country="EG" tvg-language="ara" group-title="General",Alhayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC1Egypt.eg@HD" tvg-name="MBC 1 Egypt" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-country="EG" tvg-language="ara" group-title="General",MBC 1 Egypt
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr2.eg@SD" tvg-name="MBC Masr 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/MBC_Masr_2_Logo.svg" tvg-country="EG" tvg-language="ara" group-title="General",MBC Masr 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+#EXTINF:-1 tvg-id="WatanTV.eg@SD" tvg-name="Watan TV" tvg-logo="https://i.imgur.com/pZyKaUH.png" tvg-country="EG" tvg-language="ara" group-title="General",Watan TV
+https://rp.tactivemedia.com/watantv_source/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlGhadTV.eg@SD" tvg-name="Al Ghad TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/AlGhad_TV.png" tvg-country="EG" tvg-language="ara" group-title="News",Al Ghad TV
+https://eazyvwqssi.erbvr.com/alghadtv/alghadtv.m3u8
+#EXTINF:-1 tvg-id="KoogiTV.eg@SD" tvg-name="Koogi TV" tvg-logo="https://i.imgur.com/zojMTP9.png" tvg-country="EG" tvg-language="ara" group-title="Kids",Koogi TV
+https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MixHollywood.eg@SD" tvg-name="Mix Hollywood" tvg-logo="https://i.imgur.com/1ENdbZn.png" tvg-country="EG" tvg-language="ara" group-title="Movies",Mix Hollywood
+https://ml-pull-hwc.myco.io/MixTV/hls/index.m3u8
+#EXTINF:-1 tvg-id="NileDrama.eg@SD" tvg-name="Nile Drama" tvg-logo="https://i.imgur.com/FasJFMM.png" tvg-country="EG" tvg-language="ara" group-title="Movies",Nile Drama
+#EXTVLCOPT:http-referrer=https://entv.dz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://185.9.2.18/chid_352/index.m3u8
+#EXTINF:-1 tvg-id="HyaTV.eg@SD" tvg-name="Hya TV" tvg-logo="https://i.imgur.com/XjBIi0e.png" tvg-country="EG" tvg-language="ara" group-title="Entertainment",Hya TV
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 tvg-id="AghapyTV.eg@SD" tvg-name="Aghapy TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/AghapyTV.jpg" tvg-country="EG" tvg-language="ara" group-title="Religious",Aghapy TV
+https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CopticTV.eg@SD" tvg-name="Coptic TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Coptic_news.jpg" tvg-country="EG" tvg-language="ara" group-title="Religious",Coptic TV
+https://ctv.icopts.app/CTV/index.fmp4.m3u8
+#EXTINF:-1 tvg-id="HudaTV.eg@SD" tvg-name="Huda TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/58/Logo_huda_%D8%AD%D8%AC%D9%85_%D9%83%D8%A8%D9%8A%D8%B1.gif" tvg-country="EG" tvg-language="eng" group-title="Religious",Huda TV
+https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
+#EXTINF:-1 tvg-id="ElRadio9090FM.eg@SD" tvg-name="El Radio 9090 FM" tvg-logo="https://www.9090.fm/images/logo.png" tvg-country="EG" tvg-language="ara" group-title="Music",El Radio 9090 FM
+https://9090video.mobtada.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Mazzika.eg@SD" tvg-name="Mazzika" tvg-logo="https://i.imgur.com/P7PUHIx.png" tvg-country="EG" tvg-language="ara" group-title="Music",Mazzika
+http://149.100.11.235:8080/Mazzika/index.m3u8
+#EXTINF:-1 tvg-id="MBCMasr1.eg" tvg-name="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" tvg-country="EG" group-title="Other",MBC Masr 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d47245db6cdbb1575/index.m3u8

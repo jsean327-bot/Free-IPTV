@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TVCARiBKidsTeens.sx@SD" tvg-name="TVCARiB Kids & Teens [Not 24/7]" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" tvg-language="nld;eng" group-title="Kids",TVCARiB Kids & Teens [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/nro19k2h/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBCinema.sx@SD" tvg-name="TVCARiB Cinema [Not 24/7]" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" tvg-language="nld;eng" group-title="Movies",TVCARiB Cinema [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/l3vslw4i/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBLatino.sx@SD" tvg-name="TVCARiB Latino [Not 24/7]" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" tvg-language="spa" group-title="Entertainment",TVCARiB Latino [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/xn44vdc5/index.m3u8
+#EXTINF:-1 tvg-id="TVCARiBGospel.sx@SD" tvg-name="TVCARiB Gospel [Not 24/7]" tvg-logo="https://i.imgur.com/fvGlwKo.png" tvg-country="SX" tvg-language="fra;eng" group-title="Religious",TVCARiB Gospel [Not 24/7]
+https://cdn.mycloudstream.io/hls/live/broadcast/wokrhjkd/index.m3u8
+#EXTINF:-1 tvg-id="981PearlFM.sx@SD" tvg-name="98.1 Pearl FM" tvg-logo="https://i.imgur.com/GY750xh.jpg" tvg-country="SX" tvg-language="eng" group-title="Music",98.1 Pearl FM
+https://live2.tensila.com/pearl-v-1.pearlfm/hls/live/mystream.m3u8

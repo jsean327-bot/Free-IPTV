@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="OmanTV.om@SD" tvg-name="Oman TV" tvg-logo="https://i.imgur.com/rBftT9x.png" tvg-country="OM" tvg-language="ara" group-title="General",Oman TV
+https://cdn-globecast.akamaized.net/live/eds/oman_tv/hls_roku/index.m3u8
+#EXTINF:-1 tvg-id="OmanTVMubashir.om@SD" tvg-name="Oman Mubashir" tvg-logo="https://i.imgur.com/UkQTR5b.png" tvg-country="OM" tvg-language="ara" group-title="News",Oman Mubashir
+https://partwota.cdn.mgmlcdn.com/omlive/smil:omlive.stream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlistiqamaTV.om@SD" tvg-name="Alistiqama TV" tvg-logo="https://i.imgur.com/2FPtYZr.png" tvg-country="OM" tvg-language="ara" group-title="Religious",Alistiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
