@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleSahel.ne@SD" tvg-name="Tele Sahel" tvg-logo="https://i.imgur.com/vboq428.png" tvg-country="NE" tvg-language="fra;hau;dje;tmh" group-title="General",Tele Sahel
+https://mediaserver1.castpin.com/hls/telesahel/index.m3u8
+#EXTINF:-1 tvg-id="TalTV.ne@SD" tvg-name="Tal TV" tvg-logo="https://i.imgur.com/KWMP0t1.png" tvg-country="NE" tvg-language="fra;hau;dje;tmh" group-title="Entertainment",Tal TV
+https://mediaserver1.castpin.com/hls/taltv/index.m3u8

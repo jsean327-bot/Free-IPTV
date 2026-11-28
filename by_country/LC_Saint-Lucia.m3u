@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DBSTV.lc@SD" tvg-name="DBS TV" tvg-logo="https://i.ibb.co/JW1n9Fs/Screenshot-20230804-135924.jpg" tvg-country="LC" tvg-language="eng" group-title="General",DBS TV
+https://stream.dbstvstlucia.com/hls/dbstv_main.m3u8

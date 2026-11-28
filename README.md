@@ -1,0 +1,222 @@
+# القوائم المجانية
+
+آخر تحديث: 2026-11-28 12:23 UTC
+
+| القائمة | الرابط | الرابط القصير (يحتاج GitHub Pages) |
+|---|---|---|
+| كل شي (قنوات + أفلام + مسلسلات) | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/all_in_one.m3u | https://jsean327-bot.github.io/Free-IPTV/all_in_one.m3u |
+| القنوات العربية | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/arabic_tv.m3u | https://jsean327-bot.github.io/Free-IPTV/arabic_tv.m3u |
+| كل القنوات حسب الدولة | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/live_by_country.m3u | https://jsean327-bot.github.io/Free-IPTV/live_by_country.m3u |
+| كل القنوات حسب التصنيف | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/live_by_category.m3u | https://jsean327-bot.github.io/Free-IPTV/live_by_category.m3u |
+| الأفلام | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/movies.m3u | https://jsean327-bot.github.io/Free-IPTV/movies.m3u |
+| المسلسلات | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/series.m3u | https://jsean327-bot.github.io/Free-IPTV/series.m3u |
+| الإذاعات | https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/radio.m3u | https://jsean327-bot.github.io/Free-IPTV/radio.m3u |
+
+قائمة لكل دولة في مجلد by_country (مثال: https://raw.githubusercontent.com/jsean327-bot/Free-IPTV/lists/by_country/SA_Saudi-Arabia.m3u)
+
+<pre>
+Free Media Builder 1.0 - built 2026-11-28 12:23 (took 1h 32m)
+
+Live TV channels : 9,370  (countries: 175, Arabic: 351)
+Movies           : 61,414
+Series           : 6,524 shows / 50,245 episodes
+Radio stations   : 51,687
+
+Live TV by country:
+  SA  Saudi Arabia                           45
+  AE  United Arab Emirates                   41
+  KW  Kuwait                                  9
+  QA  Qatar                                  19
+  BH  Bahrain                                 5
+  OM  Oman                                    2
+  IQ  Iraq                                   50
+  YE  Yemen                                   4
+  JO  Jordan                                 17
+  PS  Palestine                              18
+  LB  Lebanon                                24
+  SY  Syria                                   9
+  EG  Egypt                                  17
+  SD  Sudan                                   3
+  LY  Libya                                   4
+  TN  Tunisia                                 4
+  DZ  Algeria                                 3
+  MA  Morocco                                11
+  MR  Mauritania                              1
+  SO  Somalia                                 4
+  AF  Afghanistan                            10
+  AL  Albania                                14
+  AD  Andorra                                 1
+  AO  Angola                                  3
+  AG  Antigua and Barbuda                     1
+  AR  Argentina                             148
+  AM  Armenia                                 7
+  AW  Aruba                                   9
+  AU  Australia                              44
+  AT  Austria                                34
+  AZ  Azerbaijan                             16
+  BS  Bahamas                                 3
+  BD  Bangladesh                             19
+  BB  Barbados                                1
+  BY  Belarus                                19
+  BE  Belgium                                23
+  BZ  Belize                                  1
+  BJ  Benin                                   7
+  BO  Bolivia                                67
+  BQ  Bonaire                                 4
+  BA  Bosnia and Herzegovina                  8
+  BR  Brazil                                168
+  VG  British Virgin Islands                  2
+  BG  Bulgaria                               66
+  BF  Burkina Faso                            2
+  KH  Cambodia                               20
+  CM  Cameroon                               11
+  CA  Canada                                149
+  CV  Cape Verde                              1
+  TD  Chad                                    1
+  CL  Chile                                 177
+  CN  China                                  96
+  CO  Colombia                               98
+  CR  Costa Rica                             50
+  HR  Croatia                                12
+  CU  Cuba                                    3
+  CW  Curacao                                 2
+  CY  Cyprus                                 14
+  CZ  Czech Republic                         87
+  CD  Democratic Republic of the Congo        5
+  DK  Denmark                                10
+  DO  Dominican Republic                    205
+  EC  Ecuador                                51
+  SV  El Salvador                            15
+  ER  Eritrea                                 1
+  EE  Estonia                                20
+  FO  Faroe Islands                           2
+  FI  Finland                                25
+  FR  France                                201
+  GF  French Guiana                           1
+  GM  Gambia                                  1
+  GE  Georgia                                14
+  DE  Germany                               359
+  GH  Ghana                                   6
+  GR  Greece                                 74
+  GP  Guadeloupe                              5
+  GU  Guam                                    1
+  GT  Guatemala                              35
+  GN  Guinea                                  2
+  GY  Guyana                                  1
+  HT  Haiti                                   4
+  HN  Honduras                               40
+  HK  Hong Kong                              10
+  HU  Hungary                               140
+  IS  Iceland                                 4
+  IN  India                                 820
+  ID  Indonesia                             120
+  IR  Iran                                   92
+  IE  Ireland                                21
+  IL  Israel                                 35
+  IT  Italy                                 390
+  CI  Ivory Coast                             9
+  JM  Jamaica                                 6
+  JP  Japan                                  20
+  KZ  Kazakhstan                             14
+  KE  Kenya                                   8
+  XK  Kosovo                                  7
+  KG  Kyrgyzstan                              1
+  LA  Laos                                    8
+  LV  Latvia                                  5
+  LT  Lithuania                              12
+  LU  Luxembourg                             10
+  MO  Macao                                   1
+  MY  Malaysia                                6
+  MV  Maldives                                5
+  MT  Malta                                   7
+  MQ  Martinique                              5
+  MX  Mexico                                109
+  MD  Moldova                                18
+  MC  Monaco                                  3
+  MN  Mongolia                               42
+  ME  Montenegro                              7
+  MZ  Mozambique                              5
+  MM  Myanmar                                15
+  NA  Namibia                                 1
+  NP  Nepal                                   7
+  NL  Netherlands                           122
+  NC  New Caledonia                           1
+  NZ  New Zealand                             7
+  NI  Nicaragua                               8
+  NE  Niger                                   2
+  NG  Nigeria                                32
+  KP  North Korea                             2
+  MK  North Macedonia                        25
+  NO  Norway                                  8
+  PK  Pakistan                               50
+  PA  Panama                                 16
+  PG  Papua New Guinea                        1
+  PY  Paraguay                               59
+  PE  Peru                                  144
+  PH  Philippines                            13
+  PL  Poland                                148
+  PT  Portugal                               40
+  PR  Puerto Rico                            22
+  CG  Republic of the Congo                   3
+  RO  Romania                               204
+  RU  Russia                                355
+  RW  Rwanda                                  7
+  KN  Saint Kitts and Nevis                   3
+  LC  Saint Lucia                             1
+  SN  Senegal                                 7
+  RS  Serbia                                 29
+  SL  Sierra Leone                            1
+  SG  Singapore                              27
+  SX  Sint Maarten                            5
+  SK  Slovakia                               57
+  SI  Slovenia                                4
+  ZA  South Africa                           18
+  KR  South Korea                            54
+  ES  Spain                                 198
+  LK  Sri Lanka                               8
+  SR  Suriname                                2
+  SE  Sweden                                268
+  CH  Switzerland                            23
+  TW  Taiwan                                 12
+  TJ  Tajikistan                              3
+  TZ  Tanzania                                3
+  TH  Thailand                               59
+  TG  Togo                                    3
+  TT  Trinidad and Tobago                     7
+  TR  Turkiye                               132
+  TM  Turkmenistan                           16
+  TV  Tuvalu                                  1
+  UG  Uganda                                 15
+  UA  Ukraine                                94
+  UK  United Kingdom                        227
+  US  United States                       1,792
+  UY  Uruguay                                 7
+  UZ  Uzbekistan                             32
+  VA  Vatican City                            2
+  VE  Venezuela                              57
+  VN  Vietnam                                79
+  EH  Western Sahara                          1
+  ZW  Zimbabwe                                1
+  -   International                         124
+
+Movies by genre:
+  Arabic Films                               47
+  Animation                                 273
+  Documentaries                          12,591
+  Sci-Fi & Horror                         1,685
+  Crime & Mystery                         2,959
+  Comedy                                  1,530
+  Westerns                                  628
+  War                                       413
+  Action & Adventure                        284
+  Romance                                   378
+  Musicals                                  312
+  Drama                                   1,230
+  Family                                     24
+  Silent Films                            3,598
+  Classic Films                          24,007
+  Short Films                            11,455
+
+Sources: iptv-org.github.io, github.com/Free-TV/IPTV, archive.org, radio-browser.info
+Free streams come and go; run the builder again to refresh the lists.
+</pre>

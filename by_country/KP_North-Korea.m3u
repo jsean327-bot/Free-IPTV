@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@HD" tvg-name="Korean Central Television (KCTV) [Not 24/7]" tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="KP" tvg-language="kor" group-title="General",Korean Central Television (KCTV) [Not 24/7]
+https://stream.intchoson.com/kctv/index.m3u8
+#EXTINF:-1 tvg-id="KoreanCentralTelevision.kp@SD" tvg-name="Korean Central Television (KCTV)" tvg-logo="https://i.imgur.com/p02AEOF.png" tvg-country="KP" tvg-language="kor" group-title="General",Korean Central Television (KCTV)
+#EXTVLCOPT:http-referrer=https://kcnawatch.org/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
+https://streamer.nknews.org/tvdash/stream.mpd
